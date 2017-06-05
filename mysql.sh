@@ -5,6 +5,8 @@ password="1234"
 dbname="linux"
 tbname="word"
 flag="true"
+
+function wordGame() {
 read -p "请输入开始字符:" char
 
 while [ "$flag" == "true" ]
@@ -21,6 +23,10 @@ while [ "$flag" == "true" ]
 			flag="false"
 			echo "游戏结束，很遗憾，您输了！"
 		fi		 
-
 	done
+}
+
+wordGame
+#echo "****************************Welcome To The Word Center************************************************"
+#echo "There Are Many Function, You Can Choose One To Play"
 
