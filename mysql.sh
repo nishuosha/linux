@@ -5,6 +5,7 @@ password="1234"
 dbname="linux"
 tbname="word"
 flag="true"
+exit="false"
 
 function wordGame() {
 read -p "请输入开始字符:" char
@@ -26,7 +27,33 @@ while [ "$flag" == "true" ]
 	done
 }
 
-wordGame
-#echo "****************************Welcome To The Word Center************************************************"
-#echo "There Are Many Function, You Can Choose One To Play"
+while [ $exit == "false" ]
+do
+	echo "****************************Welcome To The Word Center************************************************"
+	echo "*****************There Are Many Function, You Can Choose One To Play**********************************"
+	echo "--------------1,将所有单词输出到文件"
+	echo "--------------2,将以输入字母为开始的单词输出到文件"
+	echo "--------------3,将包含输入字母的单词输出到文件"
+	echo "--------------4,词汇比拼小游戏"
+	echo "--------------5,单词补全小游戏"
+	echo "--------------6,退出"
+
+read -p "please choose a number : " num
+case $num in
+	1)
+	;;
+	2)
+	;;
+	3)
+	;;
+	4)
+	;;
+	5)
+	wordGame
+	;;
+	6)
+	exit="true"
+	;;
+esac
+done
 
