@@ -1,0 +1,34 @@
+ID	words	meaning	lx
+3	abacus	n. 算盘	 I can use abacus skillfully./r/n     我会熟练地打算盘。/r/n\n The clerk reckoned the expenditure last week with an abacus./r/n     那位职员用算盘将上周的花销计算出来。/r/n
+4	abandon	v. 放弃,遗弃,沉溺	 The cruel man abandoned his wife and child./r/n     那个狠心的男人抛弃了他的妻儿。/r/n\n They had abandoned all hope./r/n     他们已经放弃了一切希望。/r/n
+5	abatement	n. 减少,减轻,缓和	 A noise abatement notice is served on the club./r/n     向俱乐部发停止大声喧哗的通知。/r/n
+6	abbreviation	n. 缩写	
+7	ABC	n. 基本要素,字母表<br>\nabbr. 美国广播公司<br>\nabbr. 澳大利亚广播公司	
+8	abdomen	n. 腹部	 The spider has a bulgy abdomen./r/n     蜘蛛长着凸出的腹部。/r/n\n He always feels pain in his abdomen./r/n     他的腹部经常疼痛。/r/n
+9	abend	异常结束	
+10	able	a. 能干的,有能力的	 He is an able man./r/n     他是一个能人。/r/n\n As I had plenty of money I was able to help her./r/n     我钱很宽裕，能帮助她。/r/n
+11	abnormal	a. 反常的,不正常的,不规则的	 The weather is abnormal this year./r/n     今年的气候不正常。/r/n\n An abnormal fear of high places./r/n     恐高症对于高处的一种不正常的恐惧/r/n
+12	abolish	v. 废止,革除	Abraham Lincoln abolished slavery in the United States.\n     \n亚伯拉罕·林肯在美国废除了奴隶制/n\n There are many bad customs and laws that ought to be abolished     有许多不良的习俗和法规应予以废
+13	aboriginal	a. 原始的,土著的	
+14	abort	v. 流产,打胎,堕胎	 Some suspicious looking men were loitering abort near the house/r/n     几个形迹可疑的人在屋子附近荡来荡去。/r/n\n An aborted organism./r/n     流产的生物体/r/n
+15	abortion	n. 流产,堕胎	 Abortion is illegal in this country./r/n     人工流产在这个国家是不合法的。/r/n\n They are discussing the morality of abortion./r/n     他们正在讨论堕胎的道德性。/r/n
+16	abound	v. 富于,充满	Tropical plants abound in the jungle.\n丛林中有大量的热带植物。\nHe abounds in courage.\n他很有胆量。
+17	above	a. 上面的<br>\nad. 在上面<br>\nn. 上面<br>\nprep. 在...上面	 The sun rose above the horizon./r/n     太阳升到地平线上。/r/n\n My bedroom is just above./r/n     我的卧室就在上面。/r/n
+18	aboveboard	ad. 光明正大地,率直地<br>\na. 光明正大的,率直的	
+19	abrasion	n. 磨减,磨损,磨损之处	
+20	abrasive	n. 研磨剂<br>\na. 磨平的	
+21	abridge	v. 删节,缩短	 It was abridged from the original work./r/n     这是原书的节录本。/r/n\n This is an abridged edition of war and peace"./r/n     这是“战争与和平”的节略版。/r/n"
+22	abridgement	节略,缩写	
+23	abroad	a. 在国外,海外(一般作表语)<br>\nad. 到国外,在国外	 He lived abroad for many years./r/n     他在国外居住了许多年。/r/n\n She is hungry for news of her husband working abroad./r/n     她渴望得到国外工作的丈夫的消息。/r/n
+24	abrupt	a. 突然的,唐突的	 That young man has an abrupt manner./r/n     那个年轻人态度很无礼。/r/n\n The meeting came to an abrupt end./r/n     会议突然结束了。/r/n
+25	abruption	中断,分离	
+26	abscess	n. 脓疮,溃疡	 The tip of an abscess, a boil, or a pimple, in which pus forms./r/n     脓头中间有脓液的脓疮、疖或丘疹的顶端/r/n\n I think I have an abscess on my gums. This could be serious./r/n     我想我的牙床上有个脓疮，这可能是严重的。/r/n
+27	absence	a. 不在,缺席<br>\nn. 缺乏,缺少,缺席	 Please look after my house during my absence./r/n     我不在时，请帮我看房子。/r/n\n We must invent an excuse for our absence./r/n     我们必须为缺席编造一个藉口。/r/n
+28	absent	a. 缺席的<br>\nvt. 使缺席	 How many students are absent today?/r/n     今天有多少学生缺席？/r/n\n Why was it that he was absent?/r/n     他为什么缺席呢？/r/n
+29	absentminded	a. 心不在焉的,茫然的,恍惚的	
+30	absorb	v. 吸收,吸引...的注意,使全神贯注	 His business absorbs him./r/n     他的业务使他全神贯注。/r/n\n The clever boy absorbed all the knowledge his teacher could give him./r/n     那个聪明的男孩把他老师所能教他的所有的知识都吸收了。/r/n
+31	absorption	n. 吸收	 I really appreciate his complete absorption in his work./r/n     我很欣赏他对工作的极端专注。/r/n\n A medicine or an agent that induces absorption./r/n     吸收剂导致吸收的药品或药剂/r/n
+32	abstract	n. 摘要<br>\na. 抽象的<br>\nv. 摘要,抽炼	 He has some abstract notion of wanting to change the world./r/n     他有一种要改造世界的空想。/r/n\n We may talk of beautiful things, but beauty itself is abstract./r/n     我们尽可谈论美的事物，然而美本身却是抽象的。/r/n
+33	absurd	a. 荒唐的	 What an absurd suggestion!/r/n     多荒谬的建议啊！/r/n\n It was absurd of you to suggest such a thing./r/n     你居然建议这样的事，太可笑了。/r/n
+34	abundance	n. 丰富,充裕	 There was an abundance of corn last year./r/n     去年玉米丰收。/r/n\n The state of being profuse; abundance./r/n     丰富极其丰富的状态；充沛/r/n
+35	abundant	a. 丰富的,充裕的	 There is abundant firewood in the forest./r/n     森林里有充裕的薪柴可用。/r/n\n Our abundant resources and stable policy provide foreigners with the advantages they invest here./r/n     我们丰富的资源和稳定的政策为外商投资提供了有利条件。/r/n

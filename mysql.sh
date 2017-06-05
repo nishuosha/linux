@@ -4,12 +4,11 @@ username="root"
 password="1234"
 dbname="linux"
 tbname="word"
-flag="true"
 exit="false"
 
 function wordGame() {
 read -p "请输入开始字符:" char
-
+flag="true"
 while [ "$flag" == "true" ]
 	do
 		echo "当前字符串为 : ${char}"
@@ -36,6 +35,16 @@ function getAllWords() {
 
 }
 
+function getWordsBegin() {
+	read -p "请输入开始的字母:" begin
+	sql="select * from cetsix where words like '${begin}%';"
+	echo `mysql -h ${hostname} -u ${username} -p${password} ${dbname} -e "${sql}" > wordsBegin.txt`
+	pwd=`pwd`
+	echo "保存至${pwd}/wordsBegin.txt"
+}
+
+
+
 while [ $exit == "false" ]
 do
 	echo "****************************Welcome To The Word Center************************************************"
@@ -53,13 +62,14 @@ case $num in
 	getAllWords
 	;;
 	2)
+	getWordsBegin
 	;;
 	3)
 	;;
 	4)
+	wordGame
 	;;
 	5)
-	wordGame
 	;;
 	6)
 	exit="true"
