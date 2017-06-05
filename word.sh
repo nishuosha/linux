@@ -43,7 +43,13 @@ function getWordsBegin() {
 	echo "保存至${pwd}/wordsBegin.txt"
 }
 
-
+function getWordsInclude() {
+	read -p "请输入要包含的字母:" include
+	sql="select * from cetsix where words like '%${include}%';"
+	echo `mysql -h ${hostname} -u ${username} -p${password} ${dbname} -e "${sql}" > wordsInclude.txt`
+	pwd=`pwd`
+	echo "保存至${pwd}/wordsInclude.txt"
+}
 
 while [ $exit == "false" ]
 do
@@ -65,6 +71,7 @@ case $num in
 	getWordsBegin
 	;;
 	3)
+	getWordsInclude
 	;;
 	4)
 	wordGame
