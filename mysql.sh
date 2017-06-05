@@ -27,6 +27,15 @@ while [ "$flag" == "true" ]
 	done
 }
 
+function getAllWords() {
+	
+	sql="select * from cetsix;"
+	echo `mysql -h ${hostname} -u ${username} -p${password} ${dbname} -e "${sql}" > allWords.txt`
+	pwd=`pwd`
+	echo "保存至${pwd}/allWords.txt"
+
+}
+
 while [ $exit == "false" ]
 do
 	echo "****************************Welcome To The Word Center************************************************"
@@ -41,6 +50,7 @@ do
 read -p "please choose a number : " num
 case $num in
 	1)
+	getAllWords
 	;;
 	2)
 	;;
