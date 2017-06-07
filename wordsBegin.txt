@@ -1,4 +1,5 @@
 ID	words	meaning	lx
+2	a.m.	上午<br>\nabbr. (ante meridiem的缩写)上午,午前<br>\nad. 上午,由午夜至中午	
 3	abacus	n. 算盘	 I can use abacus skillfully./r/n     我会熟练地打算盘。/r/n\n The clerk reckoned the expenditure last week with an abacus./r/n     那位职员用算盘将上周的花销计算出来。/r/n
 4	abandon	v. 放弃,遗弃,沉溺	 The cruel man abandoned his wife and child./r/n     那个狠心的男人抛弃了他的妻儿。/r/n\n They had abandoned all hope./r/n     他们已经放弃了一切希望。/r/n
 5	abatement	n. 减少,减轻,缓和	 A noise abatement notice is served on the club./r/n     向俱乐部发停止大声喧哗的通知。/r/n
@@ -32,3 +33,586 @@ ID	words	meaning	lx
 33	absurd	a. 荒唐的	 What an absurd suggestion!/r/n     多荒谬的建议啊！/r/n\n It was absurd of you to suggest such a thing./r/n     你居然建议这样的事，太可笑了。/r/n
 34	abundance	n. 丰富,充裕	 There was an abundance of corn last year./r/n     去年玉米丰收。/r/n\n The state of being profuse; abundance./r/n     丰富极其丰富的状态；充沛/r/n
 35	abundant	a. 丰富的,充裕的	 There is abundant firewood in the forest./r/n     森林里有充裕的薪柴可用。/r/n\n Our abundant resources and stable policy provide foreigners with the advantages they invest here./r/n     我们丰富的资源和稳定的政策为外商投资提供了有利条件。/r/n
+36	academic	a. 学院的,理论的,学术性的	 The new academic year is coming./r/n     新学年就要来了。/r/n\n The question is purely academic./r/n     这是一个纯学术性的问题。/r/n
+37	academy	n. 学院,学术,学会	 He is a student in an academy of music./r/n     他是一所音乐学院的学生。/r/n\n A member of an art, literary, or scientific academy or society./r/n     学会会员艺术、文学、科学学会或团体的成员/r/n
+38	accelerate	v. 加速	 The car accelerated as it overtook me./r/n     那辆汽车一加速就超越了我./r/n\n The leader is losing ground as the rest of the runners accelerate./r/n     领先者在其余赛跑者加速时就逐渐失去了优势。/r/n
+39	acceleration	n. 加速,促进,加速度	
+40	accelerator	n. 加速者,加速器,油门	 I pressed the accelerator until the engine screamed./r/n     我猛踩油门踏板，发动机发出了尖利的声音。/r/n\n The brake (pedal) is between the clutch and the accelerator./r/n     制动器（踏板）在离合器和加速器之间./r/n
+41	accentuate	v. 以重音念,强调,重读	 The tight jumper only accentuated his fat stomach./r/n     那件紧身套头毛衣反更突出了他那肥胖的肚子./r/n
+42	accept	vt.接受,同意,承担(责任等)	 It is generally accepted that smoking is harmful to our health./r/n     吸烟有害健康，这是大家公认的。/r/n\n The police are not allowed to accept rewards./r/n     警察是不允许接受酬金的。/r/n
+43	acceptable	a. 合意的,受欢迎的,可接受的	 The solution to this problem is acceptable./r/n     这个问题的解决方案是可接受的。/r/n\n Do you think the proposal is acceptable?/r/n     你认为这个建议可接受吗？/r/n
+44	acceptance	n. 接受,容纳,承诺,验证	 Within two days I received a letter of acceptance from the manager./r/n     不到两天，我就收到了经理写来的录取信。/r/n\n The proposal was met with general acceptance./r/n     这建议得到普遍的赞同。/r/n
+45	access	n. 通路,进入,使用之权<br>\nv. 存取	 Citizens may have free access to the library./r/n     市民可以免费使用这个图书馆。/r/n\n He is a man of easy access./r/n     他是一个很好接近的人。/r/n
+46	accessible	a. 可得到的,易接近的,可进入的	 A manager should be accessible to his staff./r/n     一个管理人员应该让职员感到平易近人。/r/n\n This island is accessible only by boat./r/n     这个小岛只能坐小船去。/r/n
+47	accident	n. 事故,意外的事	 We got back without accident./r/n     我们平安无事地回来了。/r/n\n She was injured badly in the accident./r/n     她在事故中受重伤。/r/n
+48	accidental	a. 意外的,偶然的	 Our meeting was quite accidental./r/n     我们的相遇是很偶然的。/r/n\n A sequence of events that although accidental seems to have been planned or arranged./r/n     巧合，凑巧虽是偶然的，但似乎是经计划或安排的一系列事件/r/n
+49	acclaim	n. 喝采,欢呼,赞同<br>\nv. 欢呼,喝采,称赞	
+50	accommodate	v. 使适应,调节,和解	 The cottage could accommodate up to five people./r/n     这间小屋最多能容纳5个人。/r/n\n The bank is accommodating its customers more than it used to./r/n     这家银行现在给客户贷款比以前多了。/r/n
+51	accompany	v. 陪伴,带有	 The text is accompanied by illustration./r/n     正文附有插图。/r/n\n Lightning usually accompanies thunder./r/n     闪电通常伴有雷声。/r/n
+52	accomplish	v. 完成	 The prediction was literally accomplished./r/n     这个预言确实实现了。/r/n\n I have accomplished a great deal in the last few months./r/n     在过去几个月里，我完成了相当多的工作。/r/n
+53	accomplishment	n. 成就	
+54	accord	n. 一致,调和,协议，自愿<br>\nvi. (与)一致（accord with）<br>\nvt.使一致，调解；给予，赠予	 He was accorded a warm welcome./r/n     他受到热烈的欢迎。/r/n\n He joined the army of his own accord./r/n     他自愿参军。/r/n
+55	accordance	n. 符合,一致	 I sold the house in accordance with your orders./r/n     我按照你的指示售出了这所房子。/r/n\n The mayor must make policies in accordance with the bill passed in the Congress./r/n     市长要根据议会的议案来制定政策。/r/n
+56	according	ad. 根据,按照	 According to these figures, our company is doing well./r/n     从这些数字来看，我们的公司经营得不错。/r/n\n The books in the library were distributed according to subjects./r/n     图书馆里的藏书按科目分类。/r/n
+57	accordingly	ad. 因此,于是,如前所说 照着 相应地	 I have told you the circumstances, so you must act accordingly./r/n     我已将情况告诉你，所以你必须酌情处理。/r/n\n He was asked to leave the city and accordingly he went./r/n     有人叫他离开该城市，所以他就走了。/r/n
+58	account	n. 帐目,报告,估计<br>\nv. 叙述,解释<br>\nn. 利益,好处	 I have an account with Midland Bank./r/n     我在米德兰银行开有户头。/r/n\n He has been asked to account for his conduct./r/n     他被要求解释他的行为。/r/n
+59	accountant	n. 会计	 She was defrauded of her money by a dishonest accountant./r/n     她的钱被一个奸诈的会计骗去了。/r/n\n He was deep in conversation with his accountant./r/n     他与会计深入交谈./r/n
+60	accounting	n. 会计	
+61	accumulate	v. 积聚,堆积	
+62	accumulation	n. 积聚,累积,积聚物	
+63	accumulator	累加器	
+64	accuracy	n. 准确(性),精确度	 It is impossible to say with any accuracy how many are affected./r/n     无论如何也说不准受影响的有多少。/r/n\n I can predict something with great accuracy./r/n     我能很准确地预测某事。/r/n
+65	accurate	a. 准确的,精确的	 His report of the event was accurate in every detail./r/n     他对事件的报道，其全部细节都是准确的。/r/n\n Is the station clock accurate?/r/n     火车站的表准吗？/r/n
+66	accurately	a. 准确地<br>\nad. 精确地,准确地	 He can speak English fluently and accurately./r/n     他能准确流利地说英语。/r/n\n The engineer in particular must be able to communicate his ideas to others rapidly and accurately./r/n     工程技术人员尤其必须能够迅速而准确地将自己的想法传达给别人。/r/n
+67	accusation	n. 控告,指控,非难	 The accusation was that he had murdered his wife./r/n     罪名是他谋杀了他的妻子。/r/n\n The prosecutor brought an accusation of theft against him./r/n     检察官指控他偷窃。/r/n
+68	accuse	v. 责备,控告	 He was accused of incompetence./r/n     他被指责为不称职。/r/n
+69	accuser	n. 原告,控诉者,非难者	 The accuser brought an accusation against the accused./r/n     原告起诉了被告。/r/n\n They confronted the prisoner with his accusers./r/n     他们让犯人与原告对质。/r/n
+70	accustom	v. 使...习惯	 You must accustom yourself to getting up early./r/n     你必须使自己习惯于早起。/r/n\n He had to accustom himself to the cold weather./r/n     他不得不使自己习惯于寒冷的天气。/r/n
+71	accustomed	a. 习惯了的	 You will soon get accustomed to the climate here./r/n     你会很快习惯这里的气候的。/r/n\n I am accustomed to hard work./r/n     我已经习惯努力工作了。/r/n
+72	ache	n. 痛<br>\nv. 痛,渴望	 I ache all over./r/n     我浑身疼痛。/r/n\n He felt a dull ache in his shoulder./r/n     他感到肩膀隐隐作痛。/r/n
+73	achievement	n. 成就,成绩,完成,达到	 Flying across the Atlantic for the first time was a great achievement./r/n     首次飞跃大西洋是一项了不起的业绩。/r/n\n I felt a great sense of achievement when I reached the top of the mountain./r/n     当我到达山顶的时候，我有一种巨大的成就感。/r/n
+74	acid	a. 酸的<br>\nn. 酸	 The acid burnt a hole in the carpet./r/n     酸把地毯烧了个洞。/r/n\n Acids react with bases to form salts./r/n     酸与碱反应生成盐。/r/n
+75	acidity	n. 酸性,酸度	 Some freshwater fish such as pike can withstand levels of acidity./r/n     一些诸如梭鱼等淡水鱼可以抵御相当程度的酸性。/r/n\n Abnormal acidity of the blood./r/n     酸血症血液中不正常的酸度/r/n
+76	acknowledge	v. 承认,答谢,告知收到,确认,报偿	
+77	acoustic	a. 美声的，听觉的,音感教育,音响学的	 Opened the show with an acoustic set./r/n     不用电子乐器开始演出/r/n\n An acoustic instrument./r/n     非电传音乐器/r/n
+78	acoustics	n. 音响学,音响效果,声学	
+79	acquaint	v. 使...熟知	 I am acquainted with her./r/n     我认识她./r/n\n Please acquaint him with my arrival./r/n     请通知他我到了。/r/n
+80	acquaintance	n. 熟人,相识	 I have a slight acquaintance with Japanese./r/n     我略通日文。/r/n\n He is my acquaintance./r/n     他是我的熟人。/r/n
+81	acquire	v. 获得,取得,学到	 The collector has acquired a fine collection of impressionist paintings./r/n     这位收藏家收集到大量印象派绘画。/r/n\n We admired his intellectual providence to acquire vast stores of dry information./r/n     我们钦佩他收集大量原始资料的远见卓识。/r/n
+82	acre	n. 英亩	 We own 100 acres of farmland./r/n     我们拥有一百英亩农田。/r/n\n The house has half an acre of lawn./r/n     这座房子有半英亩草坪./r/n
+83	acrobat	n. 杂技演员	 The audience held its/their breath as the acrobat walked along the tightrope./r/n     杂技演员在钢丝绳上表演时，观众们屏息观看。/r/n\n One that tumbles, especially an acrobat or a gymnast./r/n     翻筋斗者翻滚者，尤指杂技演员或体操运动员/r/n
+84	acronym	n. 缩写字,字头语	
+85	across	ad. 横过<br>\nprep. 穿过,横过	 The two lines cut across each other./r/n     两条线相交。/r/n\n Can you swim across the river?/r/n     你能游到河的对岸吗？/r/n
+86	act	n. 行为,行动,法案<br>\nv. 行动,扮演,下判决	 Parliament has passed an Act forbidding the killing of rare animals./r/n     国会通过了一项法令, 禁止捕杀珍稀动物。/r/n\n Think well before you act./r/n     要三思而后行。/r/n
+87	ACTH	[缩]肾上腺皮质激素	
+88	action	n. 行动,情节,表现,战斗	 Actions speak louder than words./r/n     行动胜于空谈。/r/n\n The action lasted three hours./r/n     战斗持续了三个小时。/r/n
+89	activate	v. 刺激,使...活动,创设	
+90	activated	激活的	 The burglar alarm was activated by mistake./r/n     防盗铃误响了./r/n
+91	activation	n. 激活	
+92	active	a. 积极的,主动的	 Vesuvius is an active volcano./r/n     维苏威山是一座活火山。/r/n\n She has an active imagination./r/n     她有灵活的想象力。/r/n
+93	activist	n. 活动分子,积极分子	
+94	activity	n. 活动	 The center provides facilities for a whole range of leisure activities./r/n     这个中心提供各种娱乐活动设施。/r/n\n There has been a lot of activity in the town today./r/n     今天市中心相当热闹。/r/n
+95	actress	n. 女演员	 The actress won overnight fame with her first film./r/n     这个女演员的第一部电影使她一举成名。/r/n\n The actress wore a black wig over her blond hair./r/n     女演员的金发上戴着黑色的假发。/r/n
+96	actual	a. 实际的,真实的	
+97	actually	ad. 实际上	 Believe it or not, he actually won!/r/n     信不信由你，他真地胜利了！/r/n\n What did he actually say?/r/n     他实际上说了些什么?/r/n
+98	actuals	n. 现货	 The actual labour force numbered20820./r/n     实际劳动力有20820人。/r/n\n He told the newspapermen about the conversation, but would not play them the actual tape of it./r/n     他向新闻记者讲了这次谈话的情况，却不愿把实况录音磁带放给他们听。/r/n
+99	actuator	执行器	
+100	acupressure	n. 针压法	
+101	acupuncture	n. 针灸,针治<br>\nv. 施以针灸	
+102	acute	a. 敏锐的,激烈的,尖锐的	 This area has an acute shortage of water./r/n     这个地方缺水严重。/r/n\n We agreed with his acute analysis of the political situation./r/n     我们都同意他对政治形势的深刻分析。/r/n
+103	AD	abbr. (advertisement的缩写)广告<br>\nn. (缩)广告	
+104	adapt	v. 使...适应,改编	 This novel has been adapted for radio from the Russian original./r/n     这部小说已由俄文原著改编成无线电广播节目。/r/n\n She adapted herself quickly to the new climate./r/n     她很快就适应了这种新气候。/r/n
+105	adaptability	n. 适应性	
+106	adaptation	n. 改编,适应,改编成的作品	
+107	adapter	适配器	
+108	adaptive	a. 适合的,适应的,能适应的	 Created adaptive clothing for children and young adults with special needs./r/n     为有特殊要求的儿童或年轻人创造适应的布匹/r/n
+109	add	v. 增加	 He added some wood to increase the fire./r/n     他加了一些木柴，使火旺些。/r/n\n If you add 4 to 5, you get 9./r/n     四加五等于九。/r/n
+110	addend	加数	
+111	adder	n. 欧洲产的小毒蛇,北美产的无毒小蛇,加算器	 An adder attacked my father./r/n     一条小毒蛇攻击了我父亲。/r/n
+112	addict	v. 使...耽溺,使...上瘾<br>\nn. 耽溺者,上瘾者	 He was addicted to cocaine./r/n     他吸可卡因上瘾/r/n\n There are no lengths to which an addict will not go to obtain his drug./r/n     瘾君子为了得到毒品什麽事都做得出来./r/n
+113	addiction	n. 耽溺,上瘾	 An addiction, especially to a narcotic drug./r/n     上瘾上瘾，特别是对毒品上瘾/r/n\n His addiction to drugs propelled him towards a life of crime./r/n     他吸毒成瘾使他走上了犯罪的道路。/r/n
+114	addition	n. 增加,附加物,加,加法	
+115	additional	a. 附加的,另外的	 He had to pay some additional charges./r/n     他不得不付些附加费。/r/n\n You should know the additional responsibilities that are incidental to the job./r/n     你该知道做这项工作要承担额外责任。/r/n
+116	additionally	ad. 另外(加之,又)	
+117	additive	n. 附加物(加法)<br>\na. 加添的	
+118	address	n. 住址<br>\nn. 致词,讲话<br>\nvt. 发表演说，写地址，（图书、文章等）讨论（某主题）	 He addressed the audience in an eloquent speech./r/n     他向听众发表了雄辩的演说。/r/n\n There is a letter addressed to you./r/n     有封写给你收的信。/r/n
+119	addressable	可寻址的	
+120	addressee	被访地址	
+121	addressing	寻址,访问	 A larger computer storage area, usually used for virtual storage addressing./r/n     一大段计算机存储区，常用于虚拟存储器寻址。/r/n\n I was rather daunted by the thought of addressing such an audience./r/n     我一想到要对这样的听众讲话，就有些胆小。/r/n
+122	adenosine	n. 腺苷,腺嘌呤核苷	
+123	adept	a. 熟练的,老练的<br>\nn. 名手,专家	 My teacher is adept at designing robots./r/n     我的老师对设计机器人是个内行。/r/n\n Helen is adept in music and her husband is adept in drawing./r/n     海伦精通音乐，而她的丈夫擅长绘画。/r/n
+124	adequate	a. 足够的,充足的,适当的,能胜任的	 Their earnings are adequate to their needs./r/n     他们挣的钱够用了。/r/n\n Our accommodation is barely adequate./r/n     我们的住房不太够用。/r/n
+125	adhere	v. 附～,粘～	 We should adhere to our opinions./r/n     我们应当坚持我们的意见。/r/n\n Paste is used to make one surface adhere to another./r/n     糨糊是用于使一个接触面粘住另一个接触面的。/r/n
+126	adjacency	邻近,邻接	
+127	adjacent	a. 毗连的,邻近的,接近的	 His house is adjacent to mine./r/n     他的寓所与我的相毗连。/r/n\n An edge and the area immediately adjacent to it; a border./r/n     边缘，边界边和邻近的区域；边界/r/n
+128	adjective	n. 形容词<br>\na. 形容词的,似形容词的	 This is an adjective phrase./r/n     这是个形容词短语。/r/n\n There are more than 5,000 adjectives in that dictionary./r/n     那本词典中有5000多个形容词。/r/n
+129	adjoin	v. 邻接,毗连,邻接	 Our house adjoins theirs./r/n     我们的房屋与他们的毗连。/r/n\n Property that adjoins ours./r/n     与我们的地产相毗连的地产/r/n
+130	adjust	v. 调整,使...适于	 He adjusted himself very quickly to the heat of the country./r/n     他很快使自己适应了这个国家炎热的天气。/r/n\n This kind of desk can be adjusted to the height you need./r/n     这种书桌的高低可以按照你的需要调节。/r/n
+131	administer	v. 管理,治理,执行	 The priest administered the last rites./r/n     神父为人举行临终圣礼。/r/n\n The courts administer the law./r/n     法院执行法律。/r/n
+132	administrate	v. 给予,投(药),经营,实施,掌管,料理	
+133	administration	n. 行政,管理,中央政府	 The company developed rapidly under his administration./r/n     在他的管理下，公司发展得很快。/r/n\n She has been looking after the ,day-to-day administration./r/n     她一直在照管日常的行政工作./r/n
+134	administrative	a. 行政的,管理的	 This job is mainly administrative./r/n     这份工作主要是行政性的。/r/n\n A division of an area, as for administrative purposes./r/n     地区，行政区一个地域的分支，如为了管理的目的/r/n
+135	administrator	n. 管理人,行政官	 She is an excellent administrator./r/n     她是个优秀的管理人员。/r/n\n The person was appointed administrator to manage the property of others./r/n     这个人被指定管理他人的财产。/r/n
+136	admiration	n. 钦佩,赞赏	 She speaks English so well that her friends are filled with admiration./r/n     她的英语说得好极了，她的朋友都赞美不已。/r/n\n She was ardent in her admiration of the artist./r/n     她非常倾慕那位艺术家。/r/n
+137	admire	v. 钦佩,羡慕,赞赏	 She has many admirers./r/n     她有许多追求者。/r/n\n I am not a great admirer of her work./r/n     我对她的工作不太欣赏。/r/n
+138	admission	n. 许可,入会费,承认	 He gained admission into this university./r/n     他获准进入这所大学。/r/n\n Do they charge for admission?/r/n     入场要收费吗?/r/n
+139	admit	v. 允许进入,承认	 He was admitted to the hospital suffering from burns./r/n     他由于烧伤，被送入医院治疗。/r/n\n This sentence admits of several interpretations./r/n     这个句子可以有多种解释。/r/n
+140	Adobe	n. 泥砖,土坯<br>\n美国Adobe公司	
+141	adolescent	a. 青春期的,青少年的<br>\nn. 青少年	 My adolescent life./r/n     我的青少年时期/r/n\n Overgrowth is common in adolescents./r/n     青少年成长过快是普遍现象./r/n
+142	adopt	v. 采用,收养,接受	 As they had no children of their own, they adopted an orphan./r/n     他们没有亲生儿女，就收养了一个孤儿。/r/n\n Most countries adopt metric system./r/n     大多数国家采用米制。/r/n
+143	adoption	n. 采用,采纳,收养	 He was pleased by the adoption of a little girl./r/n     他对收养了一个女孩感到高兴。/r/n\n The list of bill to be consider is headed by the bill on the adoption service./r/n     要考虑的议案一览表上第一项就是关于收养服务的议案。/r/n
+144	adore	v. 崇拜,爱慕,喜爱	 The boys adore their mothers./r/n     男孩们敬慕他们的母亲。/r/n\n All the girls in our school adore the handsome mathematics teacher who happens to be a bachelor./r/n     我们学校里所有女孩子都崇拜那个恰巧是单身汉的英俊数学老师。/r/n
+145	adrenal	a. 肾上腺的<br>\nn. 肾上腺	
+146	adrenalin	n. 肾上腺素	 He kept the adrenalin flowing with off-and-on feuds with his critics./r/n     他断断续续地同评论家们口诛笔伐，使得肝火旺盛。/r/n
+147	adult	a. 成年的,成熟的<br>\nn. 成年人	 These films are suitable for adults only./r/n     这些电影只适宜成人观看。/r/n\n His behavior is not particularly adult./r/n     他的举止行为还不太成熟。/r/n
+148	adulteration	n. 搀杂,搀假的东西,冒充货	 Characterized by adulteration; spurious./r/n     掺假的以掺假为特征的；伪造的/r/n
+149	advance	n. 前进,进步,预支<br>\nv. 前进,增加,上涨	 The report advances the suggestion that safety standards should be improved./r/n     该报告建议安全标准应该改进。/r/n\n It is a popular show, so advance booking is essential./r/n     这是个很受欢迎的演出，所以一定要提前订票。/r/n
+150	advanced	a. 高级的,先进的	 The professor is engaged in advanced studies./r/n     该教授正进行高深的学术研究。/r/n\n The regent carried out an advanced system in his country./r/n     摄政者在他的国家推行了一套先进的制度。/r/n
+151	advantage	n. 优势,有利条件	 Earthenware has an advantage over wood in being more easily kept clean./r/n     陶器的优点在于比木器更容易保持清洁。/r/n\n Rich has an advantage over you since he can speak German./r/n     理奇比你占优势, 因为他会讲德语。/r/n
+152	advantageous	a. 有利的	 For the best; advantageous./r/n     有好处的；有利的/r/n\n It will be advantageous if steps are taken to resume our business relationship on the basis of mutual benefit./r/n     如果我们采取措施在互利的基础上恢复业务关系，对我们都是有利的。/r/n
+153	adventure	n. 冒险,奇遇<br>\nv. 大胆进行	 The explorer told the boys about his adventures in the Arctic./r/n     那位探险家把他在北极的冒险活动讲给男孩子 们听。/r/n\n An adventure in dining./r/n     进餐中的奇遇/r/n
+154	adverb	a. 副词的<br>\nn. 副词	 It is an adverb./r/n     它是副词。/r/n\n Adverb is used to modify verb, such asquickly" in"she runs quickly"./r/n     副词用来修饰动词，例如：“她快快地跑”中的“快快地”。/r/n"
+155	adverse	a. 不利的	 An allergy is an adverse reaction of the body to certain substances./r/n     过敏是身体对某些物质的不良反应。/r/n\n The judge gave us an adverse decision./r/n     法官作出对我们不利的判决。/r/n
+156	advertise	vi. 登广告<br>\nv. 为...做广告	 I advertised him of my plan./r/n     我告知他我的计划。/r/n\n We decided to advertise our new product./r/n     我们决定为我们的新产品做广告。/r/n
+157	advertisement	n.&ad. 广告	 There are too many TV advertisements in between the program./r/n     这个电视节目中的广告太多了。/r/n\n There are many insertions of advertisement in the newspapers./r/n     报纸上有很多插入的广告。/r/n
+158	advice	n. 忠告,劝告	 I asked the teacher for her advice./r/n     我征求这位老师的意见。/r/n\n He gave me some good advice./r/n     他向我提了一些很好的意见。/r/n
+159	advisable	a. 明智的,可取的	 It is deemed advisable./r/n     这认为是可取的./r/n\n It will not be advisable so pack this course into your already busy schedule./r/n     把这门课硬排进你本来已经很紧的计划是不明智的。/r/n
+160	advise	v. 劝告,通知,与...商量	 The doctor advised (me to take) a complete rest./r/n     医生让（我）完全休息./r/n\n They advised her against marrying quickly./r/n     他们劝她不要太快结婚./r/n
+161	adviser	n. 顾问,指导教授,劝告者	 Professor Smith served as special adviser to the President./r/n     史密斯教授曾做过总统的特别顾问。/r/n\n He became her senior adviser her deputy, if you will./r/n     他成了她的高级顾问--你要说是她的副手也未尝不可./r/n
+162	advisory	a. 劝告的,顾问的,谘询的	
+163	advocate	n. 提倡者,拥护者<br>\nv. 主张,提倡	 He advocates reducing military spending./r/n     他主张削减军费开支。/r/n\n This judge is a strong advocate of prison reform./r/n     这位法官是监狱改革的坚决拥护者。/r/n
+164	aerial	a. 空中的,航空的,空想的	 He showed me some aerial photographs./r/n     他给我看了一些空中拍摄的照片。/r/n\n The birds perched on the television aerial./r/n     鸟停在电视天线上./r/n
+165	aeroplane	n. 飞机	 An aeroplane droned overhead./r/n     一架飞机在头上嗡嗡飞过。/r/n\n To ride in an aeroplane you have to book in advance./r/n     要乘飞机必须提前定位子。/r/n
+166	aerospace	n. 航空宇宙	
+167	aesthetic	a. 美学的,审美的,有美感	
+168	affair	n. 事件,事情,事务	 Mind your own affairs!/r/n     别管闲事！/r/n\n The party was a dull affair./r/n     这次聚会单调乏味。/r/n
+169	affect	v. 影响,作用,感动	 He affected not to hear me./r/n     他假装没有听见我。/r/n\n He was much affected by the sad news./r/n     这个悲惨的消息使他非常难过。/r/n
+170	affected	vbl. 影响	 The climate affected his health./r/n     气候影响了他的健康。/r/n\n It is said that the rhythm of tides is affected by the moon./r/n     据说潮汐的涨落受月亮的影响。/r/n
+171	affection	n. 慈爱,爱,感情,作用,影响	 Every mother has affection for her children./r/n     每个母亲都爱她的孩子。/r/n\n He is held in affection./r/n     他极为大家所爱戴。/r/n
+172	affiliate	n. 联号(联播台,同伙),附属机构,分公司<br>\nvt 合并(使...加入,追源)	
+173	affirm	v. 断言,肯定	 I affirm that what he said is true./r/n     我断言他所说的是实情。/r/n\n They affirmed that the girl did quite a bit of reading./r/n     他们断言这个女孩子读了不少书。/r/n
+174	affirmative	a. 肯定的,正面的<br>\nn. 肯定语,赞成方面	
+175	affix	v. 使...附于,署名,粘贴	 Affix a label to a package./r/n     在包裹上贴张标签/r/n\n Please affix a stamp./r/n     请贴上邮票。/r/n
+176	afflict	v. 使苦恼,折磨	 She was afflicted with conscience./r/n     她受良心责备。/r/n\n He was afflicted with cancer./r/n     他患了癌症。/r/n
+177	affluent	a. 富裕的<br>\nn. 支流	
+178	Africa	n. 非洲	
+179	African	a. 非洲的,非洲人的<br>\nn. 非洲人	 Most African people are black people./r/n     大多数非洲人是黑人。/r/n\n He is an African./r/n     他是非洲人。/r/n
+180	after	a. 以后的<br>\nad. 以后,后来<br>\nconj. 在...以后<br>\nprep. 在...之后	 I found your coat after you had left the house./r/n     你离开房子之后，我发现了你的外衣。/r/n\n He grew weak in after years./r/n     在以后的几年里，他变得衰弱了。/r/n
+181	afternoon	n. 下午	 Good afternoon!/r/n     下午好！/r/n\n Scattered showers are expected this afternoon./r/n     预料今天下午有零星阵雨。/r/n
+182	afterward	ad. 后来,以后	 Soon afterward they left./r/n     他们不久以后就离开了。/r/n\n Three days afterward they met at the station./r/n     三天后，他们在车站见面了。/r/n
+183	afterwards	ad. 以后,后来	 We saw the play separately and compared notes afterwards./r/n     我们各自看了那出戏, 後来交换了意见./r/n\n Soon afterwards he made his first public statement about the affair./r/n     不久以后，他第一次就这一事件发表了公开声明。/r/n
+184	again	ad. 又,再	 Please say that again./r/n     请再说一次。/r/n\n Say that again, please./r/n     请再说一遍。/r/n
+185	against	prep. 反对,靠,倚	 There are 26 votes for him and 8 against him./r/n     有26票赞成他，8票反对他。/r/n\n We have saved some money against our old age./r/n     我们存了一些钱，以备老年之用。/r/n
+186	age	n. 年龄<br>\nv. (使)变老<br>\nvi. 变老	 Anxiety ages us./r/n     忧虑催人老。/r/n\n The period in which man learnt to make tools of iron is called the Iron Age./r/n     人类学会用铁制造工具的时代称为铁器时代。/r/n
+187	aged	a. 年老的	 The heroine of the film is an aged woman./r/n     影片的女主角是一位老妇人。/r/n\n She is a teacher aged only twenty./r/n     她是一位年仅二十岁的教师。/r/n
+188	agency	n. 代理,代理处	 I got this job through an employment agency./r/n     我通过职业介绍所找到了这份工作。/r/n\n The agency places about 2000 secretaries per annum./r/n     该代理机构每年可为约2000名秘书安排工作./r/n
+189	agenda	n. 议事日程	 Could you run (me) off twenty copies of the agenda?/r/n     你把议事日程表给（我）复印二十份好吗?/r/n\n This agenda will form the basis of our next meeting./r/n     本议程将成为下次会议的中心议题./r/n
+190	agent	n. 代理人,代理商,特工人员	 He used to be a literary agent./r/n     他曾是一位著作经纪人。/r/n\n The agent spoke on behalf of his principal./r/n     代理人代表他的委托人说话。/r/n
+191	aggregate	n. 合计,总计,集合体<br>\na. 合计的,集合的,聚合的<br>\nv. 聚集,集合,合计	 The television audience aggregated 30 millions./r/n     电视观众合计达3000万人./r/n\n Our team scored the most goals on aggregate./r/n     整个来说, 我们队得分最多./r/n
+192	aggression	n. 进攻,侵犯,侵害,侵略	
+193	aggressive	a. 侵犯的,攻击性的,有进取心的	 He is an aggressive man./r/n     他是一个好斗的人。/r/n\n A successful businessman must be aggressive./r/n     一个成功的商人必须有进取心。/r/n
+194	agitation	n. 激动,兴奋,煽动	 He was in a state of great agitation./r/n     他处于异常焦虑的状态。/r/n\n The agitation of the strike arose repeatedly./r/n     罢工风潮迭起。/r/n
+195	ago	ad. 以前	 He came here two years ago./r/n     他两年前来到这里。/r/n\n He joined the army a year ago./r/n     一年以前，他参军了。/r/n
+196	agony	n. (极度的)痛苦,创痛	 He was in an agony of remorse./r/n     他处于悔恨的海洋中。/r/n\n The boxer folded up in agony./r/n     那拳击手痛苦地倒下了./r/n
+197	agreeable	a. 愉快的,和蔼可亲的	 Are you agreeable to the proposal?/r/n     你能同意这项建议吗？/r/n\n She has an agreeable voice./r/n     她的声音悦耳。/r/n
+198	agreement	n. 同意,一致,协议	 We are in agreement with their decision./r/n     我们同意他们的决定。/r/n\n Finally we reached an agreement./r/n     我们最终达成了协议。/r/n
+199	agricultural	a. 农业的	
+200	agriculture	n. 农业	 I know nothing about agriculture./r/n     我对农业一窍不通。/r/n\n Modern agriculture is spoiling our beautiful countryside./r/n     现代农业正在破坏我们美丽的农村。/r/n
+201	ahead	ad. 向前地,胜于,在...前面	 He ran on ahead./r/n     他跑在前面。/r/n\n He will be ahead of others in English./r/n     他在英语方面将超过别人。/r/n
+202	aid	n. 帮助,有帮助的事物<br>\nv. 援助,帮助<br>\nabbr.=Agency for International Development 国际开发署[美]	 A dictionary is an invaluable aid in learning a new language./r/n     在学习一种新语言时，词典是非常有用的工具。/r/n\n We were greatly aided in our investigation by the cooperation of the police./r/n     我们在调查的过程中得到警方的大力协助。/r/n
+203	aim	n. 目标,对准<br>\nv. 对准目标,打算	 He aims to be a successful writer./r/n     他的目标是成为一个成功的作家。/r/n\n What is your aim in life?/r/n     你的生活目标是什么？/r/n
+204	air	n. 空气,旋律<br>\nv. 晾干,使通风	 We aired the room by opening the window./r/n     我们打开窗户，使房间通风。/r/n\n I shall travel to New York by air this weekend./r/n     这个周末我将要乘飞机去纽约旅行。/r/n
+205	airbrush	喷枪	
+206	aircraft	n. 飞机	 The speed of this aircraft is very high./r/n     这架飞机的速度非常快。/r/n\n The new aircraft is undergoing safety tests./r/n     这种新飞机正在接受安全性能检验。/r/n
+207	airfield	n. 飞机场	 A large passenger aircraft will land on the airfield./r/n     一架大型民航班机将降落在这个飞机场。/r/n\n The airfield is bounded by woods on all sides./r/n     飞机场的四周都是树林./r/n
+208	airflow	气流	
+209	airline	a. (飞机)航线的<br>\nn. (飞机的)航线,航空公司	 Mr. Wang is a staff of France airline./r/n     王先生是法国航空公司的一名职员。/r/n\n With several of their planes temporarily out of commission, the airline is losing money./r/n     航空公司因有几架飞机暂时不能使用而正在赔钱./r/n
+210	airliner	n. 定期班机,客机	 This is a large passenger airliner./r/n     这是一架大型客机。/r/n\n The airliner flew at an altitude of 20000ft./r/n     客机在两万英尺的高度飞行。/r/n
+211	airmail	n. 航空邮件	 Surface mail takes longer than airmail./r/n     普通邮件比航空邮件慢。/r/n\n An airmail letter to china normally cost50 cents, but this letter seem a bit thick./r/n     寄往中国的航空信一般是50美分，不过这封信好像厚一点。/r/n
+212	airplane	n. 飞机	 The airplane is airworthy./r/n     这架飞机是适于飞行的。/r/n\n The airplane was attacked by dropping bombs./r/n     这架飞机遭到炸弹的袭击。/r/n
+213	airport	n. 机场	 You must arrive at the airport two hours early./r/n     你必须提前两小时到达机场。/r/n\n I have arranged that one of my staff will meet you at the airport./r/n     我已经安排好派一个职员到飞机场接你。/r/n
+214	aisle	n. (席位间的)通道	
+215	alarm	n. 警报,惊慌,警告,报警器<br>\nv. 使...惊慌,警告	 I gave the alarm as soon as I saw the smoke./r/n     我一看见冒烟，就发出了警报。/r/n\n The news of the radiation leak caused widespread public alarm./r/n     辐射泄露的消息引起了公众的普遍恐慌。/r/n
+216	album	n. 集邮本,照相簿,唱片簿	 My album of boyhood photographs often reminds me of the past happiness./r/n     童年时的相册经常让我想起儿时的欢乐。　/r/n\n This is one of the songs from her latest album./r/n     这是她最新歌集里的一首歌。/r/n
+217	alcohol	n. 酒精	 This substance is soluble in alcohol./r/n     这种物质能够溶解在酒精中。/r/n\n He never touches alcohol./r/n     他从不沾酒。/r/n
+218	alcoholic	n. 酒鬼,酒精中毒的人<br>\na. 酒精性的	 Home-made wine can be very alcoholic./r/n     自制的酒酒性很烈。/r/n\n He was in an alcoholic stupor./r/n     他醉得不省人事。/r/n
+219	aldehyde	n. 醛,乙醛	
+220	aldosterone	n. 醛固酮	
+221	alert	a. 警觉的,灵敏的,留心的	 An alert listener will have noticed the error./r/n     耳朵尖的人能听出这个错。/r/n\n Troops are on the alert against any possible aggression./r/n     军队戒备着可能的来犯。/r/n
+222	alga	n. 海藻	 Algae grow in water./r/n     水藻生长在水中。/r/n\n Some of the algae are edible./r/n     有些藻类是可以吃的。/r/n
+223	algebraic	代数的	
+224	algorithm	算法	
+225	alias	n. 别名,化名<br>\nad. 别名,化名	 Mick Clark, alias Sid Brown, is wanted for questioning by the police./r/n     米克·克拉克, 又名锡德·布朗, 被警方通缉审问./r/n\n The criminal Mick Clark has/uses several aliases./r/n     那个叫米克·克拉克的罪犯有[使用]好几个化名./r/n
+226	alien	n. 外侨;外星人<br>\na. 外国的,相异的	 Their ideas are quite alien to our ways of thinking./r/n     他们的观点同我们看问题的方法格格不入。/r/n\n Cruelty is quite alien to his nature./r/n     残忍完全不合他的本性。/r/n
+227	alienation	n. 疏远,离间,割让	
+228	alienator	n. 转让人,让渡人	
+229	alienee	n. 受让人	
+230	align	v. 排列,调整,定中心,校直,使结盟, 使成一行	 Could you align this table with those?/r/n     你能把这张桌子同那些桌子排成一行吗？/r/n\n Our company should align ourselves with theirs./r/n     我们的公司必须与他们的公司合作。/r/n
+231	aligned	对齐的,均衡的	 The Communist Party has aligned itself with the Socialists./r/n     共产党与社会党结成了联盟./r/n\n The troops aligned./r/n     士兵们列队了。/r/n
+232	alignment	n. 调整(成直线,准线,定向,直线性,结盟)	
+233	alike	a. 相似的,同样的<br>\nad. 一样,以同样的方式	 We are much alike in character./r/n     我们的性格很相似。/r/n\n The two brothers are very much alike./r/n     这两兄弟非常相像。/r/n
+234	alimentary	a. 食物的,滋养的	
+235	alive	a. 活着的	 Are your grandparents still alive?/r/n     你的祖父母还在世吗？/r/n\n The city was all alive when he arrived./r/n     当他到达时，城里非常热闹。/r/n
+236	alkalinity	n. 碱浓度,碱性	
+237	all	a. 所有的,全部的<br>\nad. 全部,全然<br>\nint. 全部,全体,一切	 All work and no play makes Jack a dull boy./r/n     （谚）只工作不玩耍，聪明杰克也变傻。/r/n\n The party was all but over when we arrived./r/n     我们到的时候，晚会几乎要结束了。/r/n
+238	allegation	n. 断言,主张,辩解	
+239	allege	v. 断言,宣称	 The police alleged that the man was murdered but they have given no proof./r/n     警方声称这男子是被谋杀的，但未提出任何证据。/r/n\n So they alleged, but have they any proof?/r/n     他们是这样宣称的，但他们有证据吗？/r/n
+240	alleged	a. 被说成的,被指称的	 The police alleged that the man was murdered but they have given no proof./r/n     警方声称这男子是被谋杀的，但未提出任何证据。/r/n\n So they alleged, but have they any proof?/r/n     他们是这样宣称的，但他们有证据吗？/r/n
+241	allergic	a. 过敏的	 Allergic children; highly allergic to penicillin./r/n     过敏的儿童；对青霉素高度过敏/r/n\n Ben is allergic to pollen./r/n     班对花粉过敏。/r/n
+242	allergy	n. 敏感症,反感,厌恶	 An allergy to cocktail parties./r/n     对鸡尾酒会的厌恶/r/n\n Constantly blowing his nose in allergy season./r/n     在过敏的季节不断地擤他的鼻子/r/n
+243	alleviate	v. 减轻,使...缓和	 The doctor gave her an injection to alleviate the pain./r/n     医生给她注射以减轻疼痛./r/n\n They alleviated the boredom of waiting by singing songs./r/n     他们以唱歌来减轻等候的厌烦./r/n
+244	alley	n. 小路,巷	 We tried one idea after the other, but they all seemed to be leading to blind alleys./r/n     我们想了一个又一个主意，但它们似乎都行不通。/r/n\n This business is right up my alley./r/n     这种事情正是我熟悉的。/r/n
+245	alliance	n. 结盟,联盟,联姻	 They made an alliance against the common enemy./r/n     他们联合起来抵御共同的敌人。/r/n\n Which country is the predominant member of the alliance?/r/n     哪个国家在联盟中居于支配地位？/r/n
+246	allied	a. 联合的,同盟的	 The English language is allied to the German language./r/n     英语和德语属于同一语系。/r/n\n The allied warplanes bombed the country by the hundred./r/n     盟军数以百计的飞机轰炸了那个国家。/r/n
+247	allocate	v. 分派,分配,分配额	
+248	allocation	n. 配置,分配,安置	
+249	allocator	分配算符	
+250	allot	v. 分配,分摊	 How much cash has been allotted?/r/n     拨给多少现款?/r/n\n Who will she allot the easy jobs to?/r/n     她要把轻活儿分给谁?/r/n
+251	allow	v. 允许,准许<br>\nvi. (for)考虑到<br>\nvt. 允许	 You are not allowed to smoke here./r/n     这里不许吸烟。/r/n\n The patient was allowed up (ie permitted to get out of bed) after 10 days./r/n     病人十天以後才允许起来（准予离床下地）./r/n
+252	allowable	容许的,承认的	
+253	allowance	n. 限额，定量<br>\nn. 津贴,零用钱	
+254	allowed	容许的	 Imports will be allowed in proportion to exports./r/n     容许的进口量将按照出口的多少而定。/r/n\n Smoking is not allowed here./r/n     这里不许吸烟。/r/n
+255	alloy	n. 合金<br>\nv. 使...成合金,搀以劣质,减低成色	 Brass is an alloy of copper and zinc./r/n     黄铜是铜和锌的合金。/r/n\n Ornaments, objects, or utensils made of this alloy./r/n     黄铜制品用这种合金制的装饰品、物件或器皿/r/n
+256	ally	n. 盟友,同盟国<br>\nv. 联盟,联合,与...有关系	 That football team is our ally./r/n     那个足球队是我们的同盟者。/r/n\n Britain was an ally of America in the World War I./r/n     英国在第一次世界大战中是美国的同盟国。/r/n
+257	almost	ad. 几乎,差不多	 She said almost nothing./r/n     她几乎什么都没说。/r/n\n Almost anything will do./r/n     几乎什么都行./r/n
+258	along	ad. 向前<br>\nprep. 沿着	 We walked along the road./r/n     我们沿着路走。/r/n\n We bicycled along, singing loudly./r/n     我们骑着脚踏车前进，大声歌唱着。/r/n
+259	alongside	ad. 在旁边<br>\nprep. 在...旁边	 The car drew up alongside the road./r/n     小汽车在路边停下来。/r/n\n He is the master of the boat moored alongside./r/n     他是那条靠着码头停泊的船的主人。/r/n
+260	aloud	ad. 出声地,大声地	 Please read aloud so that I can hear you./r/n     请大声朗读，好让我能听到。/r/n\n Read (the letter) aloud, please./r/n     请大声念（这封信）./r/n
+261	alpha	n. 希腊字母的第一个字母,最初,开端	 The researches are concerned with alpha rays./r/n     这些研究是关于阿尔法射线的。/r/n
+262	alphabet	n. 字母表	 There are 26 letters in the English alphabet./r/n     英语字母表中有26个字母。/r/n\n Many letters in the alphabet such as b, c, d,etc are consonants./r/n     字母表中的许多字母像b，c，d，等等都是辅音字母。/r/n
+263	alphabetic	a. 照字母次序的,字母的	
+264	alphabetical	a. 按字母表顺序的	 The index is arranged in alphabetical order./r/n     这索引是按字母顺序排列的。/r/n\n The words in the dictionary are arranged in alphabetical order./r/n     词典中的词是按字母顺序排列的./r/n
+265	alphabetically	按字母表顺序地	 The books are listed alphabetically./r/n     这些书是按字母顺序编入目录的./r/n\n Being arranged alphabetically./r/n     按字母顺序排列的/r/n
+266	alphanumeric	字母数字的	 A terminal containing less than a full alphanumeric keyboard; for example, one containing ten numeric keys plus control keys./r/n     一种终端，它的键盘不包括全套的字母数字字符键；例如，只包括十个数字键以及若干控制键。/r/n
+267	also	ad. 也	 Tom has been to Japan, I have also been there./r/n     汤姆曾去过日本，我也曾去过。/r/n\n London was also called the modern Babylon./r/n     伦敦也被称为现代巴比伦。/r/n
+268	alter	v. 改变	 He altered one of the rooms into a bedroom./r/n     他把一间屋子改建成了卧室。/r/n\n Circumstances alter cases./r/n     【谚】具体情况具体分析。/r/n
+269	alteration	n. 改变,变更	 There have been a few alterations to the timetable./r/n     时间表上有一些变动。/r/n\n My coat needs alteration./r/n     我的上衣需要改改。/r/n
+270	alternate	a. 交替的,轮流的<br>\nv. 交替,轮流	 Sunny weather alternated with rain./r/n     天气晴雨相间。/r/n\n Meetings are held on alternate Thursdays./r/n     每隔一个星期的星期四举行一次会议。/r/n
+271	alternately	ad. 交替地,隔一个地	
+272	alternative	a. 两者择一的<br>\nn. 替换物,取舍<br>\nv. 两者取一	 Have you got an alternative suggestion?/r/n     你有没有其他建议？/r/n\n Please find alternative means of transport./r/n     请另外找一个运输方法。/r/n
+273	alternatively	ad. 二者择一地,做为选择	 We could take the train or alternatively go by car./r/n     我们可以坐火车去, 也可以坐汽车去./r/n\n Come with us, alternatively, meet us there./r/n     同我们一道去，或者在那儿兴我们会合。/r/n
+274	although	conj. 尽管,虽然	 Although my uncle is old, he looks very strong and healthy./r/n     我的叔叔虽然老了，但他看上去还是很健壮。/r/n\n She seemed a babe although she was already thirty./r/n     尽管她已经三十岁了，看上去还象个小孩。/r/n
+275	altitude	n. 高度,海拔	 The airliner flew at an altitude of 20000ft./r/n     客机在两万英尺的高度飞行。/r/n\n In these altitudes snow never melts./r/n     在这样的高度，雪永不融化。/r/n
+276	aluminium	n. 铝	
+277	aluminum	n. 铝	 Aluminum foil can be used for wrapping food./r/n     铝箔用于包装食物。/r/n\n She put some noodles in the aluminum saucepan./r/n     她在铝锅里下了些面条。/r/n
+278	alveolus	n. 肺泡	
+279	amass	v. 收集,积聚	 That which is gathered or amassed; a collection or an accumulation./r/n     收集物被收集或聚集的东西；一种收集物或获得物/r/n\n He is planed to amass a fortune for a rainy day./r/n     他正打算积蓄财富以备不时之需。/r/n
+280	amateur	a. 业余的<br>\nn. 业余爱好者	 You are a professional, but I am an amateur./r/n     你是专职的，我是业余的。/r/n\n He is an amateur photographer./r/n     他是个业余摄影爱好者。/r/n
+281	amaze	v. 使吃惊	 He amazed me by his audacity./r/n     他的无理让我惊骇。/r/n\n I was amazed to find her there./r/n     发现她在那，我感到很吃惊。/r/n
+282	amazing	a. 令人惊异的	 It was amazing that he knew nothing about the event./r/n     他对这个事件毫不知情，真让人感到诧异。/r/n\n What an amazing painting!/r/n     多么了不起的一幅画啊！/r/n
+283	ambassador	n. 大使	 He was appointed ambassador to the United States./r/n     他被任命为驻美国大使。/r/n\n His Excellency the French ambassador will be present at the meeting./r/n     法国大使阁下将出席本次会议。/r/n
+284	ambiguity	n. 不明确,含糊,暧昧,模棱两可	 A state of ambiguity or obscurity./r/n     含糊不清或者晦涩的状态/r/n\n Signal which prevents accidental operation by spurious signals or avoids possible ambiguity./r/n     防止假信号的意外作用或者避免二义性而设置的信号。/r/n
+285	ambiguous	a. 模棱两可的	 He give us an ambiguous answer./r/n     他给了我们一个模棱两可的答复。/r/n\n An intentionally noncommittal or ambiguous statement./r/n     暧昧的回答，故意的不信任故意说得模棱两可的话，不明确的话/r/n
+286	ambition	n. 雄心,野心<br>\nvt. 有...野心,追求	 In his youth he had the ambition of being a pianist./r/n     他在青年时代曾经有过想当钢琴家的雄心。/r/n\n The naked facts; naked ambition./r/n     明明白白的事实；明显的野心/r/n
+287	ambitious	a. 热望的,有雄心的,有抱负的	 An ambitious boy usually works hard./r/n     一个充满雄心的男孩通常会努力工作。/r/n\n He ventured on an ambitious project./r/n     他冒险从事一项富有雄心的计画。/r/n
+288	ambulance	n. 救护车	 An ambulance was racing along with its sirens wailing./r/n     救护车响着警报急驰而过。/r/n\n The ambulance reached the collapsed building in due time./r/n     救护车及时赶到了那座倒塌的大厦。/r/n
+289	amenable	a. 应服从的,会接纳的,肯服从的	 This case is not amenable to the normal rules./r/n     这件事经不起常规的检验./r/n
+290	amend	v. 修正,改善,改良	 They decided to amend the bill./r/n     他们决定修正这条议案。/r/n\n Please amend your copy of the contract accordingly./r/n     请将你的合同文本作相应的修正。/r/n
+291	amendment	n. 改善,改良,改正<br>\n修正案	 That representative brought forth an amendment to the press law./r/n     那位代表提出了一项对新闻法的修正案。/r/n\n The amendment is an appendage of that contract./r/n     这个修改是那个合同的附件。/r/n
+292	amends	n. 赔偿	 Did you make amends to Tom for his loss?/r/n     你赔偿汤姆的损失了吗？/r/n\n I want to make amends to my friend for breaking her precious vase./r/n     我打破了朋友的贵重花瓶，想赔偿她的损失。/r/n
+293	America	n. 美国,美洲	 Have you been to America?/r/n     你去过美国吗？/r/n\n Maize is widely planted in the America./r/n     玉米在美洲广泛种植。/r/n
+294	American	a. 美国的<br>\nn. 美国人	 Bill Gates is an American citizen./r/n     比尔·盖茨是美国公民。/r/n\n The painting was knocked down (to an American dealer) for 5000./r/n     那幅画拍卖时以5000英镑售出（给一个美国商人）./r/n
+295	Amerindian	n. 美洲印第安人	
+296	amiable	a. 和蔼的,亲切的	 He is an amiable person./r/n     他是个可亲的人。/r/n\n Do you really want to go or are you merely being amiable?/r/n     你是真想去呢，还是仅仅为了表示友好？/r/n
+297	amid	prep. 在其间,在其中	 We groped amid the darkness./r/n     我们在黑暗中摸索。/r/n\n He stood firm amid temptations./r/n     他不被种种引诱所动摇。/r/n
+298	amidst	prep. 在...当中	 The tower stood amidst the ruins./r/n     塔矗立在废墟中。/r/n\n He is amidst his enemies./r/n     他被敌人包围。/r/n
+299	ammonia	n. 氨水,阿摩尼亚	 Ammonia is a chemical substance./r/n     氨是种化学物质。/r/n\n Ammonia is a colorless gas with strong smell./r/n     氨是无色并有强烈气味的气体。/r/n
+300	among	prep. 在...之中	 I live among the mountains./r/n     我住在群山之中。/r/n\n New York is among the largest cities in the world./r/n     纽约是世界上最大的几座城市之一。/r/n
+301	amongst	prep. 在...之中,在...之间(=among)	 He lives in a house amongst the trees./r/n     他住在一栋树木环绕的房子里。/r/n\n They quarreled amongst themselves./r/n     他们互相争吵。/r/n
+302	amortization	n. 分期偿还	
+303	amount	n. 数量,总额<br>\nv. 总计,等于	 My savings amount to $2000./r/n     我的储蓄共达2000美元。/r/n\n It all amounts to a lot of hard work./r/n     那一切意味看大量艰苦工作。/r/n
+304	ampere	n. 安培	
+305	ampersand	＆(=and)号	
+306	amphibian	a. 两栖类的,水陆两用的<br>\nn. 两栖动物,水陆两用飞机,水陆两用车	 Frogs and newts are amphibians./r/n     青蛙和蝾螈都是两栖动物./r/n\n The excretory opening of the digestive tract in animals such as birds, reptiles, amphibians, and fish./r/n     肛门鸟、爬行动物、两栖动物以及鱼等动物的消化道的排泄口/r/n
+307	ample	a. 充足的,丰富的	 We have ample time./r/n     我们有充足的时间。/r/n\n The house has an ample parlor./r/n     这座房子有宽敞的客厅。/r/n
+308	amplification	n. 扩大, 扩充，膨胀<br>\nn. 详述, 引伸，推广<br>\nn. 增幅, 放大(率), 放大倍数[系数]	
+309	amplifier	n. 放大器,扩音机	 This is an amplifier./r/n     这是一个放大器。/r/n\n I bought an amplifier yesterday./r/n     我昨天买了一个扩音器。/r/n
+310	amplify	v. 扩大,详述,使...增幅	
+311	amplitude	n. 广阔,充足,增幅<br>\nn. 振幅、波幅（物理）	
+312	amputate	v. 切断	 Her arm is so badly injured they will have to amputate (it)./r/n     她的胳膊伤势严重, 他们不得不锯掉（它）./r/n\n Her leg was so badly damaged that the doctors had to amputate./r/n     她的那条腿伤得很厉害，医师只得将其截除。/r/n
+313	amputation	n. 截肢	 A prosthesis was fitted after the amputation./r/n     截肢之後安装了义肢./r/n
+314	amuse	v. 消遣,娱乐,使...发笑	 The boys amuse themselves by drawing caricatures of their teacher./r/n     男孩子们以画老师的漫画取乐。/r/n\n The actors were really hamming it up to amuse the audience./r/n     这些演员为博观众一粲, 表演得实在太过火了./r/n
+315	amused	a. 有趣的	 She has an amused twinkle in her eye(s)./r/n     她高兴得双目熠熠发亮./r/n\n His amusing performance caused a roar of laughter in the audience./r/n     他那有趣的表演引起了观众的哄堂大笑。/r/n
+316	amusement	n. 娱乐,消遣	 I find amusement in collecting stamps./r/n     我发现了集邮的乐趣。/r/n\n She watched their fumbling efforts with wry amusement./r/n     她看著他们手忙脚乱地瞎使劲, 不觉莞尔./r/n
+317	an	art. 一	 Australia is an English speaking nation./r/n     澳大利亚是一个讲英语的国家。/r/n\n The city is at an elevation of 2000 metres./r/n     这座城市海拔2000米./r/n
+318	anabolism	n. 同化,同化作用	
+319	analgesia	n. 无痛,止痛法	
+320	analgesic	a. 止痛的<br>\nn. 镇痛剂	 Aspirin is a mild analgesic./r/n     阿司匹林是药性平和的止痛药./r/n\n An agent, such as an analgesic drug, that relieves pain./r/n     镇痛剂一种药剂，如止痛药，减轻疼痛/r/n
+321	analog	n. 类似(模拟量)	
+322	analogue	n. 类似物,模拟	 A vegetarian gets protein not from meat but from its analogues./r/n     素食者所摄取的蛋白质不是来自肉类而是来自近似肉类的食物./r/n\n A slide-rule is a simple analogue computer./r/n     计算尺是简单的模拟计算机./r/n
+323	analogy	n. 相似,类似	
+324	analysis	n. 分析,解析	 Close analysis of sales figures showed clear regional variations./r/n     对销售额的仔细分析显示出明显的地区差别。/r/n\n In the final analysis I think our sympathy lies with the heroine of the play./r/n     总之，我们认为我们都同情剧中的女主人公。/r/n
+325	analyst	n. 分析家,分解者,分析者	
+326	analytic	a. 分析的	 An analytic mind; an analytic approach./r/n     善于分析的头脑；分析方法/r/n
+327	analytical	a. 分析的,解析的	
+328	analyzer	分析机	
+329	anatomically	ad. 解剖学上,结构上	
+330	anatomy	n. 剖析,解剖学,骨骸	 Do you remember the lesson on the anatomy of a frog?/r/n     你还记得我们解剖青蛙的那堂课吗？/r/n\n The branch of anatomy that deals with the structure and function of bones./r/n     骨骼学研究骨的结构和功能的解剖学的分支/r/n
+331	anchor	n. 铁锚<br>\nv. 停泊,抛锚,用锚系住<br>\nv. 担任（广播，电视新闻节目）的主持人	 Hope is his only anchor./r/n     希望是他唯一的依靠。/r/n\n He anchored the winning team./r/n     他担任胜了那一队的最后一棒。/r/n
+332	ancient	a. 古代的,古老的<br>\nn. 古人	 We will all have a course in ancient history this term./r/n     这个学期我们都有一门古代史课程。/r/n\n This ancient parchment was discovered in a delicate iron box./r/n     这张古老的羊皮纸是在一个精致的铁盒子里发现的。/r/n
+333	and	conj. 和<br>\n逻辑与	 My father and mother went for a walk./r/n     爸爸妈妈去散步了。/r/n\n Work hard and you will be successful./r/n     努力工作，你就会成功。/r/n
+334	anecdote	n. 轶事,奇闻	 He told me some anecdote about our English teacher./r/n     他告诉我几个关于英语老师的掌故。/r/n
+335	anesthesia	n. 麻醉	
+336	anesthesiologist	n. 麻醉学家	
+337	anesthetic	n. 麻醉剂,麻药<br>\na. 麻醉的	 A gaseous anesthetic, such as nitrous oxide./r/n     气体麻醉剂一种气态的麻醉剂，如二氧化氮/r/n
+338	anesthetist	n. 麻醉医生	
+339	anesthetize	vt. 使麻醉,使麻木	
+340	angel	n. 天使	 My little daughter is as lovely as an angel./r/n     我的小女儿像天使一样可爱。/r/n\n She is lovely -- as much so as an angel./r/n     她可爱得像个天使。/r/n
+341	anger	n. 忿怒<br>\nv. 激怒,使...发怒	 He could hardly contain his anger./r/n     他怒不可遏。/r/n\n The words drew down his anger./r/n     言语激怒了他。/r/n
+342	angle	n. 角度<br>\nn. 盎格鲁人	 Try looking at the affair from a different angle./r/n     试从不同的角度来看这件事。/r/n\n Angular distance is the distance between two objects measured as an angle from a given point./r/n     角距离，是由一定点到两物体之间所量度的夹角。/r/n
+343	angry	a. 生气的	 I was angry with him for keeping me waiting./r/n     我对他很生气，因为他让我等了好久。/r/n\n His rudeness made me really angry./r/n     他的粗鲁让我生气。/r/n
+344	angstrom	埃(长度单位)	
+345	anguish	n. 苦闷,痛苦<br>\nv. 使...极苦闷,使...极痛苦	 The child was badly hurt and was in anguish all the evening./r/n     这个孩子受了重伤，整夜都在痛苦之中。/r/n\n Physical disability causes mental anguish./r/n     生理伤残会引起心理苦闷./r/n
+346	animal	a. 动物的,野兽的<br>\nn. 动物	 The camel is a herbivorous animal./r/n     骆驼是一种食草动物。/r/n\n A pig is a domestic animal./r/n     猪是一种家畜。/r/n
+347	animation	n. 活泼,生气,卡通制作	 We could see how excited he was by the animation in his face./r/n     我们从他脸上的神气就能看出他多麽兴奋。/r/n\n Lacking animation, variety, or distinction; dull./r/n     无精打彩的，乏味的缺少生气、变化或差别的；乏味的/r/n
+348	annihilate	v. 消减,废止	 Radio communication has annihilated space./r/n     无线电通讯已消除了空间的阻隔。/r/n\n The invasion force was annihilated./r/n     侵略军被消灭了。/r/n
+349	anniversary	n. 周年纪念(日)	
+350	annotate	v. 注解	 Some people annotate as they read./r/n     有的人一面读书一面做注解。/r/n
+351	annotation	n. 注解,评注	
+352	announce	v. 发表,广播（电台节目）,通告,正式宣布<br>\nvi. 当电台的播音员<br>\nvt. 宣布,宣告	 The news was announced by Radio Beijing./r/n     这条消息是由北京广播电台播发的。/r/n\n Everyone was silent as he announced the winner of the competition./r/n     当他宣布竞赛的优胜者时，大家都静静地倾听。/r/n
+353	announcer	n. 广播员,告知者	 She is an announcer in TV broadcast./r/n     她是电视台的一名主持人。/r/n\n The news announcer is standing by for the broadcast program at8./r/n     新闻广播员正在为八点钟的播音节目作好准备。/r/n
+354	annoy	v. 使...苦恼,骚扰	 I was annoyed at his intrusion./r/n     我对他的闯入感到生气。/r/n\n We can annoy the enemy by raids./r/n     我们可用袭击骚扰敌人。/r/n
+355	annual	a. 每年的,年度的<br>\nn. 年刊,年鉴	 Many garden plants are annuals./r/n     许多观赏植物都是一年生的。/r/n\n How much is his annual salary?/r/n     他的年薪是多少？/r/n
+356	annuity	n. 年金,养老金	
+357	anode	n. 阳极	 An electron tube having a cathode and an anode./r/n     电子二极管有一个阳极和一个阴极的电子管/r/n\n The body or plate to which the electrons are attracted is called the anode./r/n     电子被吸引到其上面去的物体或薄板称为阳极。/r/n
+358	anonymous	a. 匿名的,无名的	 An anonymous poet who flourished in the tenth century; painted when Impressionism was flourishing./r/n     一位活跃在10世纪的无名诗人；在印象主义最蓬勃的时期作画/r/n\n The author chooses to remain anonymous./r/n     作者愿不署名./r/n
+359	anoxia	n. 缺氧症	
+360	ANSI	美国国家标准学会	
+361	answer	n. 答案,回答<br>\nv. 回答,符合	 Do you know the answer to this question?/r/n     你知道这道题的答案吗？/r/n\n He answered that he knew nothing about it./r/n     他答复说关于此事他一无所知。/r/n
+362	antagonism	n. 对抗,敌对	 You could sense the antagonism between them./r/n     你能觉察出他们之间有对立情绪./r/n\n The antagonism he felt towards his old enemy was still very strong./r/n     他对旧冤家的敌对情绪仍然很大./r/n
+363	antagonist	n. 敌手,对手	
+364	antagonistic	a. 对抗性的	
+365	antarctic	a. 南极的<br>\nn. (the A-)南极洲,南极圈	 The scientist has spent six months in the solitudes of the Antarctic./r/n     这位科学家已经在人迹罕至的南极待了六个月了。/r/n\n Holidays in the Antarctic are a niche market./r/n     南极假日游是一个利基市场。/r/n
+366	antecedent	n. 前情,先行词<br>\na. 在...之前的,居先的	
+367	antenna	n. 触角,天线	 You should fix the television antenna before receiving programs./r/n     接收节目前，你应该先装天线。/r/n\n Extended the radio antenna./r/n     把收音机的天线拉到最长/r/n
+368	anthem	n. 圣歌,赞美诗	 Anthems are often with words taken from the Bible./r/n     圣歌的歌词多取自于《圣经》。/r/n\n The town band led off by playing the national anthem./r/n     市乐队以国歌开始他们的演奏。/r/n
+369	anthology	n. 诗选,文选	 The anthology reveals a prejudice in favour of lyric poets./r/n     这部选集显示出对抒情诗人有所偏爱./r/n\n Something, such as a set of data, a report, or an anthology, that is compiled./r/n     汇编指编辑好的一套数据、一篇报道或一部选集/r/n
+370	anthrax	n. 炭疽病	
+371	anthropology	n. 人类学	
+372	antibacterial	a. 抗菌的<br>\nn. 抗菌剂	
+373	antibiotic	a. 抗菌的<br>\nn. 抗生素	 Antibiotic can be used against infection./r/n     抗菌素可以用来防止感染。/r/n
+374	antibody	n. 抗体	
+375	anticipation	n. 预期,预料	
+376	anticoagulant	a. 抗凝的	
+377	antidote	n. 解毒剂,解药	 Do you have any antidote for a snakebite?/r/n     你有治疗毒蛇咬伤的解毒药吗？/r/n\n An antidote against poison, especially a confection formerly held to be an antidote to all poisons./r/n     解毒药解除毒性的解毒剂，尤指用来对付一切毒药的解毒膏/r/n
+378	antigen	n. 抗原	
+379	antique	a. 古代的<br>\nn. 古物,古董	 This jade dragon is a genuine antique./r/n     这件玉龙是真正的古玩。/r/n\n She wore an antique gown to the costume party./r/n     她穿着一件过时的长袍参加化妆舞会。/r/n
+380	antisepsis	n. 防腐法,抗菌法	
+381	antiseptic	n. 杀菌剂,防腐剂<br>\na. 杀菌的,防腐的	 Carbolic acid can be used to make antiseptic./r/n     石炭酸可用来做防腐剂。/r/n\n She gargle with an antiseptic mouthwash./r/n     她用具有消毒灭菌作用的漱口剂来清洁口腔。/r/n
+382	antiserum	n. 抗血清	
+383	antitoxin	n. 抗毒素	 Antitoxin is substance that acts against a poisonous substance and prevents it from having a harmful effect./r/n     抗毒素是抵抗有毒物质并防止其产生有害作用的物质。/r/n
+384	antonym	n. 反义词	
+385	ants	机载夜间电视系统	
+386	anus	n. 肛门	 The absence or closure of a normal body orifice or tubular passage such as the anus, intestine, or external ear canal./r/n     （先天性）闭锁，无孔正常的身体孔或管道，如肛门、肠或外耳道的缺失或闭合/r/n
+387	anxiety	n. 焦虑,挂念,担心,渴望,热望	 The anxieties of the past week had left her exhausted./r/n     上星期把她愁得没精打采。/r/n\n We waited for news with a growing sense of anxiety./r/n     我们等待着消息，越来越着急。/r/n
+388	any	a. 任何的<br>\nad. 稍<br>\ndet. 一些<br>\nprep. 无论哪个<br>\npron. 任何	 Any is better than none./r/n     有总胜于无。/r/n\n Take any book you like./r/n     你喜欢哪本书就拿哪本。/r/n
+389	anybody	n. 重要人物<br>\npron. 任何人	 He doubts if the officer is anybody./r/n     他怀疑这官员是个要人。/r/n\n Hardly anybody came./r/n     几乎没有人来./r/n
+390	anything	int. 任何事	 Is there anything for me?/r/n     有东西给我吗？/r/n\n If you remember anything at all, please let us know./r/n     你要是想起什么来，就告诉我们。/r/n
+391	anyway	ad. 不管怎样	 The house was locked and I cannot get in anyway./r/n     屋子锁着，我无论如何也进不去。/r/n\n He reflected that the quality of the instruments was good anyway./r/n     他寻思，不管怎样，这些乐器的质量还是不错的。/r/n
+392	aorta	n. 主动脉	
+393	apartment	n. 一套公寓房间	 He lives in this apartment building./r/n     他住在这座公寓大楼内。/r/n\n They scouted around for some antiques to furnish their new apartment./r/n     他们到处搜罗一些古董来装饰新居。/r/n
+394	ape	n. 猿	 The ape imitated our behavior./r/n     猿猴模仿我们的行为。/r/n\n Early man shows certain affinities with the ape./r/n     早期的人类和猿有某些相似之处./r/n
+395	aperture	n. 孔,穴,缝隙	 The aperture in the door is so wide./r/n     门上的孔隙太大了。/r/n\n What aperture are you using?/r/n     你使用多大的光圈?/r/n
+396	apologetic	a. 道歉的,认错的,赔罪的	
+397	apologize	v. 道歉<br>\nvi. 道歉,谢罪<br>\nvt. 道歉,谢罪,辩白	 Apologize to your sister!/r/n     给你姐姐赔个不是!/r/n\n I must apologize for not being able to meet you./r/n     我因为没能接你而向你道歉./r/n
+398	apology	n. 道歉；勉强的替代物	
+399	apostrophe	n. 省略符号,顿呼法	
+400	appal	v. 使...惊骇,使...惊恐,使...吓坏	 The prospect of another war appalled us./r/n     想到有可能发生另一场战争，我们不寒而栗。/r/n\n We were appalled when we heard that the chairman had been murdered./r/n     听说主席被谋杀，我们都吓坏了。/r/n
+401	appalling	a. 令人震惊的	 Nothing can extenuate such appalling behavior./r/n     这种骇人听闻的行径罪不可恕。/r/n\n Nothing can extenuate such appalling behaviour./r/n     这种骇人听闻的行径罪无可恕./r/n
+402	apparatus	n. 装置,器具,器官	 The television men have set up their apparatus./r/n     电视工作人员已经安装好了他们的器材。/r/n\n The astronauts have special breathing apparatus./r/n     宇航员有特殊的呼吸装置。/r/n
+403	apparent	a. 明显的,表面上的	 It was apparent to all that he was guilty./r/n     众所周知，他是有罪的。/r/n\n She had many good qualities despite her apparent rudeness./r/n     她粗鲁是粗鲁, 但还有许多优秀品质./r/n
+404	appeal	n. 恳求,上诉,吸引力<br>\nv. 求助,诉请,呼吁	 He was appealing for funds to build a new school./r/n     他在恳求拨款修建一所新学校。/r/n\n She appealed to the high court against her sentence./r/n     她不服判决而向高等法院上诉。/r/n
+405	appear	v. 出现,显得	 A truck appeared over the hill./r/n     一辆卡车在山丘上出现。/r/n\n Mr. Green had to appear before the committee to explain his behavior ./r/n     格林先生必须在委员会上出面解释他的行为。/r/n
+406	appearance	n. 外表,出现,出场	 We should not judge a person by his appearance./r/n     我们不应该以貌取人。/r/n\n The journal makes its appearance once two months./r/n     这本刊物两个月出版一次。/r/n
+407	appearances	出现	
+408	append	v. 附加,添加,悬挂<br>\nn.[计算机] DOS 命令建立数据文件的子目录搜索路经	 Additional information appended to the manuscript, as of a book or an article./r/n     附言，续篇如一本书或一篇文章正文后的附加信息/r/n\n I append a list of those shops which sell our products./r/n     我附上一张出售我们产品的商店名单。/r/n
+409	appendectomy	n. 阑尾切除术	
+410	appendix	n. 附录	 This dictionary has several appendices./r/n     这本词典有几项附录。/r/n\n The doctor said the appendix is not important for us./r/n     那个大夫说阑尾对我们来说并不重要。/r/n
+411	appetite	n. 爱好,嗜好,食欲,胃口,欲望	 She is suffering from lack of appetite./r/n     她食欲不振。/r/n\n The long walk gave him a good appetite./r/n     长时间的走路使他食欲旺盛。/r/n
+412	applaud	v. 拍手喝采,称赞,赞同	 We all applaud you for your decision./r/n     我们一致赞成你的决定。/r/n\n He was loudly applauded./r/n     他受到热烈的掌声欢迎。/r/n
+413	apple	n. 苹果	 An apple is a kind of fruit./r/n     苹果是一种水果。/r/n\n The apple trees are blossoming./r/n     苹果树正在开花。/r/n
+414	appliance	n. 器具,器械,装置	 These appliances are made of stainless iron./r/n     这些器具是用不锈钢制成的。/r/n\n There are many household appliances in this shop./r/n     这个商店有许多家用用具。/r/n
+415	applicable	a. 合适的,适用的	 Applicable to or characteristic of attorneys or their profession./r/n     律师的适用于律师或律师行业的，律师或律师行业的特点的/r/n\n Above rate applicable until further notice./r/n     除非另有通知，上述运费率适用。/r/n
+416	applicant	n. 申请人	 The enterprise is an applicant of this credit./r/n     这家企业是信用证的申请者。/r/n\n As the wages were low, there were few applicants for the job./r/n     因为工资低，没有什么人申请这份工作。/r/n
+417	application	n. 申请<br>\nn. 应用软件程序	 The manager received twenty applications for the post./r/n     经理收到了二十份求职申请书。/r/n\n We made an application to the court for an inquiry./r/n     我们曾请求法院调查。/r/n
+418	applied	a. 应用的<br>\nv. 应用,适用<br>\nvbl. 应用	
+419	apply	v. 应用,申请,涂	 In this way they can better apply theory to practice./r/n     这样他们就能更好地把理论运用到实践中去。/r/n\n I advise that they apply to the council for a home improvement grant./r/n     我建议他们向市政会申请改善住房的贷款。/r/n
+420	appointment	n. 约会,预约	 I have an appointment with my dentist this afternoon./r/n     我已约好今天下午去看牙医。/r/n\n He wants to change his appointment from Monday to Wednesday./r/n     他想把他的约会从星期一改到星期三。/r/n
+421	apportion	v. 分配,分摊,分派	 The department manager apportioned his men the duties for the week./r/n     部门经理把一星期的工作任务分配给他的下属。/r/n\n I apportioned half the property to each of them./r/n     我把财产的一半分配给他们各人。/r/n
+422	appraisal	n. 估计,估量,评价	
+423	appreciable	a. 可感知的,可评估的	 A fracture or crack in a rock mass along which no appreciable movement has occurred./r/n     裂缝，裂口岩石块中的碎片或缝隙，在其周围未发生过可被觉察到的运动/r/n\n Appreciable changes in temperature./r/n     可察觉到的温度上的变化/r/n
+424	appreciate	v. 欣赏,感激,赏识<br>\nv.　增值<br>\nv. 领会，充分意识	 We appreciate your helping us./r/n     我们感谢你们的帮助。/r/n\n We all appreciate a holiday after a year of hard working./r/n     经过一年辛苦工作之后，大家都能领略假期的乐趣。/r/n
+425	apprehension	n. 理解,忧惧,逮捕	 He felt some apprehension over the result./r/n     他对结果有点担心。/r/n\n We waited for their decision with a great deal of apprehension./r/n     我们怀着极其焦虑的心情等待他们作出决定。/r/n
+426	apprentice	n. 学徒<br>\nv. 使当学徒	 He is an apprentice plumber./r/n     他是个见习水管工人。/r/n\n The boy was apprenticed to a carpenter./r/n     这个男孩被送去学木匠./r/n
+427	appropriate	a. 适当的<br>\nv. 拨出（款项）	 Plain, simple clothes are appropriate for school wear./r/n     简单朴素的衣服适合在学校里穿。/r/n\n The minister was found to have appropriated government money./r/n     部长被查出挪用了公款。/r/n
+428	appropriately	ad. 适当地	
+429	approve	v. 赞同,核准,证实	 The city council approved the building plan./r/n     市议会批准了这项建筑计划。/r/n\n The equipment must be bought from a supplier approved by the company./r/n     设备必须从公司认可的供应商那里购买。/r/n
+430	approximate	a. 大约的,近似的<br>\nv. 接近,约等于	 Your guess only approximates to the facts./r/n     你的猜测仅仅是接近事实。/r/n\n The color of the curtains approximates that of the rug./r/n     窗帘的颜色和地毯相近。/r/n
+431	approximately	ad. 近似地,大约	 The plane will be taking off in approximately five minutes./r/n     飞机大约五分钟后就起飞。/r/n\n At a time near to; at approximately/r/n     将近。。。的时候；大约在。。。/r/n
+432	approximation	n. 近似值	
+433	April	n. 四月	 He moved into this house in April./r/n     他是四月份搬进这所房子的。/r/n\n The manuscript bears the date 10 April 1937./r/n     手稿上注著1937年4月10日./r/n
+434	apron	n. 围裙	 My apron is so dirty that I have to wash it./r/n     我的围裙太脏了，我不得不洗它。/r/n\n Could you tie this apron round me?/r/n     你受累把围裙给我系上行吗?/r/n
+435	aptitude	n. 才能,资质	 He has an aptitude for languages./r/n     他具有学习语言的才能。/r/n\n Edison had a remarkable aptitude for inventing new things./r/n     爱迪生具有发明创造的非凡才能。/r/n
+436	aquarium	n. 水族馆,养鱼池,玻璃缸	 A large aquarium for the study or display of marine life./r/n     海洋水族馆研究或陈列海洋生物的巨大水族馆/r/n
+437	aquatic	n. 水生动物,水草<br>\na. 水生的,水中的,水上的	
+438	Arab	n. 阿拉伯人,阿拉伯马<br>\na. 阿拉伯人的,阿拉伯的	
+439	Arabian	a. 阿拉伯(人)的<br>\nn. 阿拉伯人	
+440	Arabic	n. 阿拉伯语<br>\na. 阿拉伯语的,阿拉伯人的,阿拉伯式的	 He demonstrated a mastery of Arabic./r/n     他显示了对阿拉伯语的精通。/r/n\n She needs to perfect her Arabic before going to work in Cairo./r/n     她需要把阿拉伯语学好才能到开罗工作./r/n
+441	arbitrage	n. 仲裁,套利交易,套汇	
+442	arbitrary	a. 任意的,恣意的,专制的	 The choice of players for the team seems completely arbitrary./r/n     对队员的挑选似乎完全是主观决定的。/r/n\n Most presidents in this African country are arbitrary rulers./r/n     这个非洲国家的总统大多数是专横的统治者。/r/n
+443	arch	n. 拱门,弓形<br>\nv. 成弓形弯曲,成弓形	 The cat arched its back in anger./r/n     那只猫气得拱起了腰。/r/n\n The bridge has three arches./r/n     这座桥有三座拱洞。/r/n
+444	archaeology	n. 考古学	
+445	archaic	a. 已废的,古老的,古代的	 An archaic word, phrase, idiom, or other expression./r/n     古词，古语古词、古短语、古习语或其它表达（形式）/r/n
+446	architect	n. 建筑师	 Everyone is the architect of his own fortune./r/n     每个人都是自己命运的创造者。/r/n\n The boy made up his mind to become an excellent architect./r/n     这个男孩下定决心成为一个优秀的建筑师。/r/n
+447	architecture	n. 建筑学, 建筑业<br>\n [总称]建筑物, 建筑风格	 The architecture of this house is very substantial./r/n     这座房子的结构很牢固。/r/n\n He obtained a diploma in architecture./r/n     他获得了建筑学的学位证书。/r/n
+448	archive	n. 档案文件<br>\nn.（计算机压缩类软件的）压缩包<br>\nvt. 归档(编档保存)	 Place for permanent or long-term storage of data, from which retrieval is infrequent. A computer archive, for instance, may be on magnetic tape./r/n     用于永久或长期存储不常检索的数据的地点（介质）。例如，计算机的档案文件可放在磁带上。/r/n
+449	ardent	a. 热心的,激烈的,燃烧般的	 I am an ardent supporter of the local football team./r/n     我是本地足球队的球迷。/r/n\n She was ardent in her admiration of the artist./r/n     她非常倾慕那位艺术家。/r/n
+450	area	n. 地区,区域,面积,方面	 The farm is about 50 or 60 square kilometers in the area./r/n     这个农场的面积约为50 或60 平方公里。/r/n\n His special interest lies in the area of literature./r/n     他对文学领域特别感兴趣。/r/n
+451	argue	v. 争论,辩论,争吵,劝说	 The United States should, he argues, attempt to remain aloof./r/n     他认为，美国应保持超然态度。/r/n\n They argued the case for hours./r/n     他们就这个案子辩论了几个小时。/r/n
+452	argument	n. 辩论,争论,论据,理由	 We accepted the agreement without argument./r/n     我们毫无异议地接受了这一协议。/r/n\n There are strong arguments against these measures./r/n     有一些有力的论据反对这些措施。/r/n
+453	arm	n. 手臂,袖子<br>\nv. 武装,装备	 Justice has long arms./r/n     天网恢恢，疏而不漏。/r/n\n They were not allowed to use arms./r/n     不许他们使用武器。/r/n
+454	armchair	n. 扶手椅	 This armchair is made of bamboo./r/n     这个扶手椅是用竹子做成的。/r/n\n The old man often sits in an armchair./r/n     这个老人经常坐在扶手椅子上。/r/n
+455	armour	n. 甲胄,铁甲,防护具	 His body was encased in shining armour./r/n     他全身披着明幌幌的甲胄。/r/n\n A hog in armour is still a hog./r/n     猪穿甲胄仍是猪。/r/n
+456	arms	n. 武器	 The government intends to cut expenditure on arms./r/n     政府打算削减军备开支。/r/n\n They were not allowed to use arms./r/n     不许他们使用武器。/r/n
+457	army	n. 军队,陆军	 He joined the army a year ago./r/n     一年以前，他参军了。/r/n\n The increasing army of the unemployed has attracted the attention of the economist./r/n     不断增长的失业大军引起了这名经济学家的关注。/r/n
+458	around	ad. 大约,到处,在周围<br>\nprep. 在...周围	 My sister is around your age./r/n     我妹妹和你年龄相仿。/r/n\n He looked around but could see nobody./r/n     他四处望了一下，看不到什么人。/r/n
+459	arouse	v. 唤醒,鼓励,引起	 Diana aroused them just before dawn./r/n     戴安娜在黎明前唤醒了他们。/r/n\n His sufferings aroused our sympathy./r/n     他的痛苦引起了我们的同情。/r/n
+460	arrange	v. 安排,整理,排列<br>\nn. 安排,排列	 I have arranged that one of my staff will meet you at the airport./r/n     我已经安排好派一个职员到飞机场接你。/r/n\n I have arranged with him to meet at the restaurant./r/n     我和他约好在饭馆见面。/r/n
+461	arrangement	n. 安排	 We have made all the arrangements for the conference./r/n     我们已做好会议的全部筹备工作。/r/n\n There was an arrangement of books in the window./r/n     窗口摆了一些书。/r/n
+462	array	n. 数组,排列,陈列,大批,一系列<br>\nv. 排列,布署,打扮	 Banners are arrayed on the wall./r/n     墙上张挂着锦旗。/r/n\n People are all in holiday array./r/n     人们都穿着节日盛装。/r/n
+463	arrest	n. 逮捕,监禁<br>\nv. 拘捕,妨碍,吸引	 The treatment arrested the growth of the disease./r/n     治疗抑制了病情的发展。/r/n\n The riot led to the arrest of three young men./r/n     暴乱导致3 个年轻人被捕。/r/n
+464	arrival	n. 到达,到来	 The secretary informed me of his arrival./r/n     秘书通知我他来了。/r/n\n Their unexpected arrival threw our plan into confusion./r/n     他们的突然到来打乱了我们的计划。/r/n
+465	arrive	v. 到达	 Finally, they arrived at an agreement./r/n     他们最后终于达成了协议。/r/n\n We arrived home late./r/n     我们到家时晚了。/r/n
+466	arrogant	a. 傲慢的,自大的	 He is an arrogant man./r/n     他是一个自高自大的人。/r/n\n He often speaks in an arrogant tone./r/n     他经常以一种傲慢的口气说话。/r/n
+467	arrow	n. 箭<br>\nv. 箭(头),射箭	 The airport is arrowed on the map./r/n     飞机场在地图上用箭头标出。/r/n\n He shot arrows one by one, but each missed./r/n     他射了一箭又一箭，但都未射中。/r/n
+468	arsenal	n. 兵工厂, 军械库<br>\nn. 音译阿森那（英国－足球队名）	 Arsenals are factories that produce weapons./r/n     军工厂是生产武器的工厂。/r/n\n There is an arsenal in this city./r/n     这座城市有一个军工厂。/r/n
+469	art	a. 美术(品)的,艺术(品)的<br>\nn. 艺术	 He had devoted his whole life to the study of contemporary art./r/n     他把他的一生都献给了当代艺术研究。/r/n\n He has a bent for art./r/n     他生性爱好艺术。/r/n
+470	artery	n. 动脉,主流,干道	
+471	arthritis	n. 关节炎	 Gout is a form of arthritis./r/n     痛风是关节炎的一种。/r/n\n She was plagued with arthritis./r/n     她患关节炎十分痛苦./r/n
+472	article	n. 文章,物品,条款,冠词	 I am articled to a firm of lawyers./r/n     我受雇在一家律师公司做见习生。/r/n\n The newspaper article gave a graphic description of the earthquake./r/n     报纸文章生动地描述了地震的情况。/r/n
+473	articulation	n. 关节,接合,清晰发音	 As he drank more wine his articulation became worse./r/n     他又多喝了些酒, 口齿也就更不清楚了./r/n
+474	artifacts	n. 史前古器物	 Found echoes of past civilizations while examining artifacts in the Middle East./r/n     在调查中东的史前古器物时，发现了旧时文明的遗迹/r/n\n Fixed the date of the ancient artifacts./r/n     确定这件古代文化遗物的时间/r/n
+475	artificially	ad. 人工地,人为地,不自然地	 A naturally occurring or artificially produced radioactive element./r/n     放射性元素自然产生或人为制造的放射性元素/r/n
+476	artillery	n. (军)火炮,大炮,炮兵(部队)	 Artillery fire caused heavy loss./r/n     炮火造成重大损失。/r/n\n The artillery did great execution./r/n     这种大炮的威力很大。/r/n
+477	artist	n. 艺术家,美术家	 His dream of becoming an artist has been fulfilled./r/n     他成为一个艺术家的梦想实现了。/r/n\n She is a consummate artist./r/n     她是个技艺高超的艺术家。/r/n
+478	artistic	a. 艺术的	 She is very artistic./r/n     她酷爱艺术。/r/n\n I talked to many artistic people: writers, dancers and filmmakers./r/n     我同许多艺术界的人们谈过话，其中有作家、 舞蹈家、电影制片人。/r/n
+479	artwork	n. 艺术品,美术品	
+480	as	ad. 同样地,像<br>\nprep. 当做<br>\nconj. 当...之时,像...一样,因为	 It is just as you like./r/n     事情就如你喜欢的那样。/r/n\n He can run as fast as I can./r/n     他能跑得和我一样快。/r/n
+481	ascend	v. 上升,攀登	 The airplane ascended higher and higher./r/n     飞机渐渐升高。/r/n\n The point of greatest intensity or force in an ascending series or progression; a culmination./r/n     顶点，最高点在上升的序列或过程中达到的最大强度或力量；极点/r/n
+482	ascending	上升的,升序	 Rising in the sky; ascending./r/n     上升的升到天空中的；上升的/r/n\n We watched the mists ascending from the valley below./r/n     我们看著薄雾从下面的山谷中升起./r/n
+483	ascent	n. 上升,上坡路	 Who was the first man to make an ascent in a balloon?/r/n     第一个乘气球升空的人是谁?/r/n\n The last part of the ascent is very steep./r/n     最后一段上坡路很陡。/r/n
+484	ascertain	v. 确定,探知	 The detective was trying to ascertain exactly who was at the party./r/n     这个侦探试图查明都有谁参加了聚会。/r/n\n I ascertain that he was murdered./r/n     我确定他是被谋杀的。/r/n
+485	ASCII	美国信息交换标准码	 An ASCII control character, end of medium./r/n     一种ASCII码控制字符，媒体结束符。/r/n
+486	ascites	n. 腹水	
+487	ascribe	v. 归因于,归咎于	 This song is often ascribed to Bach./r/n     这首歌曲常被说成是巴赫做的。/r/n\n He ascribes his success to good luck./r/n     他把他的成功归功于幸运。/r/n
+488	asepsis	n. 无菌,无菌操作	
+489	aseptic	a. 无菌的,洁净的	 An aseptic smile./r/n     漠然的微笑/r/n
+490	ashamed	a. 惭愧,害臊	 I was too ashamed to tell her that I had failed./r/n     我不好意思告诉她我不及格。/r/n\n He was ashamed that he had lied./r/n     他很惭愧他说了谎。/r/n
+491	ashore	ad. 在岸上,上岸	 He managed to swim ashore./r/n     他设法向岸边游过去。/r/n\n They have been ashore for two hours./r/n     他们上岸已经两个小时了。/r/n
+492	Asia	n. 亚洲	 China is a developing country in Asia./r/n     中国是亚洲的发展中国家。/r/n\n This country used to be a British colony in Asia./r/n     这个国家曾是英国在亚洲的殖民地。/r/n
+493	Asian	a. 亚洲的<br>\nn. 亚洲人	 That Asian stopped me and asked if I was Chinese./r/n     那个亚洲人拦住我，问我是不是中国人。/r/n\n How many Asian countries have taken part in the sport meeting?/r/n     有多少亚洲国家参加这次运动会？/r/n
+494	aside	n. 旁白<br>\nad. 在一边,另外	 The decision was set aside./r/n     决议被搁置。/r/n\n Please double up the chair and put it aside./r/n     请把椅子折起来放在一边。/r/n
+495	ask	v. 问,要求	 May I ask a question?/r/n     我可以问一个问题吗？/r/n\n I have asked some friends for tea./r/n     我请了一些朋友来喝茶。/r/n
+496	asleep	a. 睡熟了的,麻木的<br>\nad. 熟睡地	 Her husband was sound asleep./r/n     她丈夫睡得很熟。/r/n\n The lion lay asleep in its den./r/n     狮子躺在洞里睡觉。/r/n
+497	aspect	n. 方面,外貌,外观	 The most terrifying aspect of nuclear bombing is radiation./r/n     核弹轰炸最可怕的一面是辐射。/r/n\n A young woman, of sullen aspect, was sitting alone on the bench./r/n     一个面色忧郁的年轻女人独自坐在长凳上。/r/n
+498	aspiration	n. 热望,渴望	 She was filled with the aspiration to succeed in life./r/n     她渴望有所成就。/r/n\n The generalship was his aspiration./r/n     将官之职位是他梦寐以求的目标。/r/n
+499	aspire	v. 热望,立志	 He aspired to leadership even in his childhood./r/n     童年时代他就渴望当领袖。/r/n\n The young girl aspired to be a scientist./r/n     小女孩立志要做一名科学家。/r/n
+500	aspirin	n. 阿斯匹林	 He fought off the cold by taking aspirin./r/n     他服阿斯匹林来治疗感冒。/r/n\n The doctor told him to take two tablets of aspirin before every meal./r/n     医生告诉他每天饭前吃两片阿斯匹林。/r/n
+501	assassinate	v. 暗杀	
+502	assassination	n. 暗杀	 The assassination was successful./r/n     暗杀成功了。/r/n\n I saw the assassination and it got under my skin./r/n     我亲眼看见暗杀的情景，真令我毛骨悚然。/r/n
+503	assemble	v. 聚集,集合,装配	 The students assembled in the school garden./r/n     学生们在校园集合。/r/n\n The processing and assemble business is a component part of our foreign trade./r/n     加工和装配贸易是我国对外贸易的一个组成部分。/r/n
+504	assembled	安装的,组给的	 The solider are all assembled with gaiters./r/n     士兵们全都绑着绑腿。/r/n\n The students assembled in the school garden./r/n     学生们在校园集合。/r/n
+505	assembler	汇编程序	 In assembler programming, one or more operation represented by a combination of terms and paired parentheses./r/n     汇编程序设计中，用项和括号对的组合所代表的一个或多个操作。/r/n\n The output of an assembler./r/n     汇编程序的输出。/r/n
+506	assembly	n. 集合,集会,装配	 People have the rights of assembly and expression./r/n     人们有集会和发表言论的权利。/r/n\n The production is greatly increased due to a new assembly line installed./r/n     由于安装了新装配线, 生产量大大提高。/r/n
+507	assert	v. 主张,声明,断言	 She asserted that he was innocent./r/n     她断言，他是无罪的。/r/n\n We encouraged him to assert his view of the matter./r/n     我们鼓励他坚持自己对此事的看法。/r/n
+508	assertion	n. 断言,主张	 He spoke with assertion./r/n     他坚定地说。/r/n\n Such a questionable assertion is sure to provoke criticism./r/n     这种有问题的主张肯定会招致非议。/r/n
+509	assess	v. 估定,评定	
+510	assessor	n. 估计财产的人,确定税款的人	
+511	assets	n. 资产	
+512	assign	v. 分配,指派<br>\nn.[计算机] DOS 命令将驱动器符重指向第二个驱动器符	 All the students are assigned to suitable jobs./r/n     所有的学生都分到了合适的工作。/r/n\n They assigned his odd behavior to his ill health./r/n     他们把他的古怪行为归因于健康不佳。/r/n
+513	assigned	v. 分配(转让,把...归因于)<br>\na. 给定的(赋予的,已知的)	 They assigned his odd behavior to his ill health./r/n     他们把他的古怪行为归因于健康不佳。/r/n\n The two large classrooms have been assigned to us./r/n     这两间大教室已经分配给我们了./r/n
+514	assignment	n. 分配,功课,任务,被指定的(课外)作业;(分派的)任务,委派	 He is the best man who can finish the assignment./r/n     他是能完成这项任务的最佳人选。/r/n\n He finished the assignment completely./r/n     他全面完成了分配的任务。/r/n
+515	assimilate	v. 使...同化,比较,比拟	 The USA has assimilated people from many different countries./r/n     美国已经同化了许多来自不同国家的人。/r/n\n Some foods are assimilated more easily than others./r/n     有些食物比另一些食物容易吸收。/r/n
+516	assimilation	n. 同化,同化作用,消化	 The assimilation of people in USA is common./r/n     在美国，人的同化很普遍。/r/n\n The assimilation of some foods is more easily than that of others./r/n     有些食物的吸收比另一些更容易。/r/n
+517	assist	n. 帮助,协助<br>\nv. 协助	 A team of nurses assisted the doctor in performing the operation./r/n     一组护士协助医生施行手术。/r/n\n Relating to, assisting, or intended to assist the memory./r/n     帮助记忆的有关，帮助，或试图帮助记忆的/r/n
+518	assistance	n. 帮助,援助	 Could you give us some assistance with this work?/r/n     你能就这项工作给我们一些帮助吗？/r/n\n Despite his cries no one came to his assistance./r/n     尽管他大声喊叫，却没有人来帮助他。/r/n
+519	assistant	形：助理的；辅助的。名：助手助理；助教，店员	 The teacher said that he would like to choose an assistant among us./r/n     老师说他将要从我们中选一个人作他的助手。/r/n\n He deputed the running of the department to an assistant./r/n     他把部门的管理工作委托给助手了。/r/n
+520	associate	n. 同伴,伙伴<br>\nv. 联合,联想<br>\na. 副的	 She associated happiness with having money./r/n     她把幸福和有钱联想到一起。/r/n\n I got a new job and a new set of work associations./r/n     我有了新工作和一班新同事。/r/n
+521	association	n. 联合,结合,交往,协会,社团	 He is a member of the Association of University Teachers./r/n     他是大学教师联合会的一名成员。/r/n\n I benefited a lot from my association with him./r/n     我与他交往获益良多。/r/n
+522	associative	a. 联合的(相关的,协会的)	
+523	assorted	a. 配合的,组合的,各色俱备的	 Demonstrators attacked the police, using sticks and assorted missiles./r/n     示威者用棍棒和各种投掷物攻击警察。/r/n\n He has always assorted with men of his age./r/n     他总是与和他年令相仿的人交往。/r/n
+524	assortment	n. 分类,配合,各色俱备之物	 There are wide assortments of gifts to choose from./r/n     那儿有各式各样的礼品可供选择。/r/n\n The shop has a rich assortment of goods./r/n     这个商店有各种各样的货品。/r/n
+525	assume	vt. 假定,设想,承担	 The problem has assumed a new form./r/n     这个问题又以新的形式出现。/r/n\n I assumed you can speak French fluently./r/n     我以为你能讲流利的法语。/r/n
+526	assumed	假定的	 Taken for granted; assumed./r/n     想当然的；假定的/r/n\n The problem has assumed a new form./r/n     这个问题又以新的形式出现。/r/n
+527	assumption	n. 假定,设想	 The theory is based on a series of wrong assumptions./r/n     这一理论是以一系列错误的设想为依据的。/r/n\n Their assumptions of an air of confidence fooled nobody./r/n     他们装出信心十足的样子却欺骗不了任何人。/r/n
+528	assurance	n. 保证,确信,保险	 They were waiting with assurance for me to discover the truth for myself./r/n     他们自信地等待我自己发现事实真相。/r/n\n Marked by assurance, as of success./r/n     以确信为特征的，如对成功的确信/r/n
+529	assure	v. 保证,确告,担保	 I can assure you that your son will be happy here./r/n     我可以向你保证，你儿子在这里会很快乐的。/r/n\n We book early to assure ourselves of seats./r/n     我们及早订票以确保有座。/r/n
+530	assured	a. 确实的,确定的<br>\nv. 保证,确实<br>\nvbl. 保证,确实	 She positively assured me that it was true./r/n     她向我明确地保证那是事实./r/n\n Having or showing confidence; assured./r/n     有信心的，显示信心的；确定的/r/n
+531	asterisk	n. 星号(*)	 The asterisked questions may be omitted./r/n     带星号的问题可以略去./r/n
+532	astigmatism	n. 散光	
+533	astonish	v. 使...惊讶	 I was astonished at the news of his escape./r/n     听到他逃之夭夭的消息，我感到惊讶。/r/n\n She astonished me with her beautiful handwriting./r/n     她以其秀丽的书法而使我惊异。/r/n
+534	astonishing	a. 可惊异的	 The car rushed at the bridge at astonishing speed./r/n     汽车以惊人的速度向桥冲过去。/r/n\n How astonishing!/r/n     真惊人!/r/n
+535	astound	v. 惊骇,使...大吃一惊	 We were astounded to read your letter./r/n     我们看了你的信大吃一惊。/r/n\n The figures in that report astounded everyone./r/n     那份报告中的数字让每个人大吃一惊。/r/n
+536	astronomer	n. 天文学家	
+537	astronomy	n. 天文学	
+538	astute	a. 机敏的,狡猾的	 It is an astute move to sell just before price goes down./r/n     正好在价格下跌前脱手，真是精明之举。/r/n\n He is astute in business./r/n     他做生意精明。/r/n
+539	asylum	n. 庇护,收容所	 Here is an asylum for the care of mentally ill or destitute people./r/n     这儿是一家精神病院。/r/n\n The people ask for political asylum./r/n     人们请求政治避难。/r/n
+540	asynchronous	adj. 异步的	
+541	atherosclerosis	n. 动脉硬化	
+542	athlete	n. 运动员	 Most first-class footballers are natural athletes./r/n     多数一流的足球运动员都是天生的健将。/r/n\n She looks like an athlete./r/n     她看起来像运动员。/r/n
+543	athletic	a. 运动的	 He is an athletic-looking young man./r/n     他是一个体格健美的年轻人。/r/n\n The boy got in to the athletic school after a special test./r/n     男孩经过一次专门测验后进了体育学校。/r/n
+544	Atlantic	a. 大西洋的<br>\nn. 大西洋	 It took them several days to cross the Atlantic Ocean./r/n     他们花了好几天的时间穿越大西洋。/r/n\n Who first navigated the Atlantic?/r/n     是谁首先横渡大西洋的?/r/n
+545	atlas	n. 地图集	 The atlas contains forty maps./r/n     这个地图集有四十幅地图。/r/n\n The atlas was published by our company./r/n     这个地图集是由我们公司出版的。/r/n
+546	atmosphere	n. 大气,气氛	
+547	atom	n. 原子	 The tower was blown to atoms by the force of the explosion./r/n     爆炸的力量把塔炸得粉碎。/r/n\n Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water./r/n     两个氢原子和一个氧原子结合而成一个水分子。/r/n
+548	atomic	a. 原子的,原子能的	 The ship was sunk by an atomic submarine./r/n     这艘船是被一艘核潜艇击沉的。/r/n\n The atomic center is the nucleus, and the electronics winds revolve it./r/n     原子的中央是原子核，电子绕着它旋转。/r/n
+549	attach	v. 附上,系上,贴上,使依恋	 We are much attached to each other./r/n     我们之间感情深厚。/r/n\n He attached a label to his baggage./r/n     他往行李上贴了一个标签。/r/n
+550	attack	n. 攻击,评击<br>\nv. 攻击,动手,疾病发作	 The enemy attacked us at night./r/n     敌人在夜里向我们进攻。/r/n\n It is reported that this disease attacks the central nervous system./r/n     据报道说这种疾病破坏中枢神经系统。/r/n
+551	attain	v. 达到,获得	 The country attained its independence in 1972./r/n     这个国家在1972年获得了独立。/r/n\n She pulls every string to attain the end./r/n     她想尽一切办法来达到目的。/r/n
+552	attend	v. 参加,注意,照料	 Danger attended everything he did./r/n     他所做的每一件事都有危险。/r/n\n I shall be attending the meeting./r/n     我会参加会议。/r/n
+553	attendance	n. 出席	 Attendance at school is demanded by law./r/n     法律规定儿童必须上学。/r/n\n At Easter, attendances at church rose./r/n     复活节期间，到教堂做礼拜的人多了。/r/n
+554	attendant	a. 伴随的<br>\nn. 服务员	 The president gave the Prince and his attendants a farewell banquet./r/n     总统为王子和他的随员举行了告别宴会。/r/n\n I asked the attendant to conduct him to the door/conduct him out./r/n     我让服务员领他们到门口[领他出去]./r/n
+555	attention	n. 注意,(口令)立正!	 She soon becomes the centre of attention./r/n     她很快成为大家注意的人物。/r/n\n You must pay attention to your teacher in the class./r/n     上课的时候必须专心听老师讲课。/r/n
+556	attentive	a. 注意的,留意的	 He is attentive to his little brother./r/n     他很关心他的小弟弟。/r/n\n You should be attentive to what your parents have said./r/n     你应该注意倾听父母所说的话。/r/n
+557	attenuation	衰减	
+558	attenuator	衰减器	
+559	attestation	n. 证据,证明,证实	
+560	attitude	n. 态度,看法,姿势	 They sat around in easy attitude./r/n     他们以舒适的姿势围坐在一起。/r/n\n We must maintain a firm attitude./r/n     我们必须采取坚定的态度。/r/n
+561	attorney	n. 律师	 He was selected as the district attorney./r/n     他被选为地方检察官。/r/n\n The attorney argue that the decision involve prejudice to his client./r/n     律师论辨说这一裁决侵害了他的委托人。/r/n
+562	attract	v. 吸引,有吸引力	 The flower show attracted large crowds this year./r/n     今年的花展吸引了大批观众。/r/n\n The government is trying to attract more investment into the shipbuilding industry./r/n     政府正在试图吸引更多资金投资到造船业方面来。/r/n
+563	attraction	a. 有吸引力的<br>\nn. 吸引,吸引力	 The attraction of the moon for the earth causes the tides./r/n     月球对地球的吸引力造成潮汐。/r/n\n She felt a strong attraction to him./r/n     她感到他对她有强烈的吸引力。/r/n
+564	attractive	a. 有吸引力的,引起注意的	 The photo made him quite attractive./r/n     照片把他拍得相当英俊。/r/n\n She is pretty rather than attractive./r/n     她是漂亮，而不吸引人。/r/n
+565	attributable	a. 可归于...的	 His illness is attributable to overwork./r/n     他的病可归因于劳累过度。/r/n\n A failure in a device attributable to burning, excessive heat, or friction./r/n     烧毁，烧坏由于燃烧、超高热或摩擦引起的设备故障/r/n
+566	auction	拍卖	 We will put the car up for auction./r/n     我们将把这辆小车拍卖。/r/n\n The car is sold by auction./r/n     这辆小车被拍卖了。/r/n
+567	audible	a. 听得见的	 Her voice was scarcely audible above the noise of the wind./r/n     在风中她的声音几乎听不见。/r/n\n Both audible and visible./r/n     视听的听觉的和视觉的/r/n
+568	audience	n. 听众,观众	 Someone in the audience began to laugh./r/n     观众中有人开始笑起来。/r/n\n He delighted the audience with his performance./r/n     他用他的表演使观众喜悦。/r/n
+569	audio	a. 成音频率的,声音的	
+570	audit	n. 查帐,审计<br>\nv. 审计,旁听	
+571	auditing	n. 审计,查账,决算	 The book has not yet been audited./r/n     这些帐册还未被审计。/r/n\n One that audits accounts./r/n     审计者审计帐务的人/r/n
+572	auditorium	n. 礼堂	 The crowd overflowed the auditorium./r/n     人群挤得礼堂无法容纳。/r/n\n The auditorium was packed that night./r/n     这天晚上，礼堂里挤满了人。/r/n
+573	augend	被加数	
+574	augment	v. 增加,增大	 He augments his income by teaching in the evenings./r/n     他晚上去教书以增加收入。/r/n\n Having the ability or tendency to augment./r/n     有增加或扩大作用的具有增加的能力或趋势的/r/n
+575	August	n. 八月<br>\na. 威严的,尊严的	 His summer vacation will end in the late August./r/n     他的暑假将于八月底结束。/r/n\n Tourism is at its peak in August./r/n     旅游业在八月份达到高峰。/r/n
+576	aunt	n. 伯母,姑,婶,姨	 I often go to visit my aunt at weekends./r/n     我常在周末去看望我姑母。/r/n\n My elder sister had a baby last month, so I am an aunt now./r/n     我姐姐上个月生了孩子，所以我现在是阿姨了。/r/n
+577	aural	a. 耳的,听觉的	 You can use these tapes as aural material./r/n     你可以把这些磁带当作听力材料。/r/n
+578	aureomycin	n. 金霉素	
+579	auscultation	n. 听诊	
+580	Australia	n. 澳大利亚	 My foreign teacher came from Australia./r/n     我的外籍教师来自澳大利亚。/r/n\n He went to Australia and soon made a fortune./r/n     他去了澳洲, 很快就发了大财。/r/n
+581	Australian	a. 澳大利亚的<br>\nn. 澳大利亚人	
+582	authentic	a. 可靠的,可信的,真的,真正的	 Is that an authentic painting or a copy?/r/n     那幅画是原作还是复制品？/r/n\n Not genuine or authentic./r/n     不真的，不可靠的/r/n
+583	authentication	n. 证明,鉴定	
+584	authenticator	认证器	
+585	author	n. 作者<br>\nvt. 创造,写作	 Dickens is his favorite author./r/n     狄更斯是他最喜欢的作家、/r/n\n The author seems to strain after novelty./r/n     作者似乎在力图标新立异。/r/n
+586	authoring	创作	
+587	authoritarian	a. 独裁的,独裁主义的	 An authoritarian regime./r/n     独裁主义的政府/r/n\n An official or authoritarian declaration; a proclamation or an edict./r/n     宣言，公告官方或权威性的宣布；公告或法令/r/n
+588	authority	n. 权力,权威,当局	 My parents think that the contemporary young people have no respect for authority./r/n     我父母认为现在的年轻人不尊重权威。/r/n\n The government is the highest authority in the country./r/n     政府是国家的最高权力机构。/r/n
+589	authorization	n. 授权,认可	
+590	auto	n. 自动<br>\n(=automobile)汽车	
+591	autoindex	自动变址,自动索引	
+592	automata	自动操作,自动控制	
+593	automatic	n. 自动的机器<br>\na. 自动的,无意识的	 We get an automatic increase in pay every year./r/n     我们的薪金每年会自动增长。/r/n\n This heating system has an automatic temperature control./r/n     这个暖气系统有自动化的温度调节系统。/r/n
+594	automatically	a. 不经思索的<br>\nad. 自动地	 Once installed, this heater operates automatically./r/n     一旦安装好以后，这加热器就会自动地运行。/r/n\n The supermarket doors shut automatically./r/n     超级市场的门是自动关的./r/n
+595	automation	n. 自动化	 Automation by means of computers./r/n     借助计算机而实现自动化。/r/n\n Semiconductors are going to play an important part in automation and signalling./r/n     半导体在自动化和信号上面即将起着重要作用。/r/n
+596	automaton	n. 自动机器,机器人	 One who looks or behaves like an automaton./r/n     木讷呆板的人长相和行为象机器人一样的人/r/n
+597	automobile	n. 汽车	 There will be an exhibition of the development of automobile industry in our country next week./r/n     下星期将举办一个关于我国汽车工业发展的展览。/r/n\n He huddled the children into the automobile./r/n     他急急忙忙地把孩子们推进汽车。/r/n
+598	autonomic	a. 自治的,自律的	
+599	autonomy	n. 自治	 The separatist is demanding full autonomy for their state./r/n     分裂主义者在要求他们的州完全自治。/r/n\n If we decentralize, the provinces will have more autonomy./r/n     我们把权力下放, 各省就有更多的自主权./r/n
+600	autumn	n. 秋季,秋天	 I think autumn is the most beautiful season in a year./r/n     我认为秋天是一年中最美的季节。/r/n\n You are invited to view our autumn collection./r/n     您被邀请参观我们的秋季时装展览。/r/n
+601	auxiliary	n. 帮助者,辅助物,助动词<br>\na. 附加的,辅助的	 We have an auxiliary generator in case of power cuts./r/n     我们有一台万一断电时使用的备用发电机。/r/n\n She is an auxiliary nurse./r/n     她是一名助理护士。/r/n
+602	avail	v. 有用,有利	 Such a statement will not avail./r/n     这样的声明没有什么用。/r/n\n This medicine is of no avail./r/n     这药无效。/r/n
+603	availability	n. 有效,有用,有益	 Pertaining to the availability of a resource for more than one user at the same time./r/n     用于修饰或说明一种资源在同一时刻可供给多个用户使用的可用性。/r/n
+604	available	a. 可用的,有效的	 The Prime Minister was not available for comment./r/n     首相无暇作出评论。/r/n\n This was the only available room./r/n     只剩下那个房间可用了。/r/n
+605	avalanche	n. 雪崩	 What a precarious situation we were in when the avalanche started!/r/n     雪崩发生的时候我们的处境多么危险啊！/r/n\n He was buried by an avalanche and had to be dug out./r/n     他遇雪崩被埋住了，得把他挖出来。/r/n
+606	avenue	n. 林荫道,大街	 The avenues of the area were crowded with visitors./r/n     这个地区的大街上挤满了参观的人群。/r/n\n They exploded every avenue but could not find a solution./r/n     他们探索过各种途径，但是没有找到解决的办法。/r/n
+607	avert	v. 转开,避免,防止	 She averted her eyes from the terrible sight./r/n     她转移目光不看那可怕的情景。/r/n\n He managed to avert suspicion./r/n     他设法避嫌。/r/n
+608	avoid	v. 避免<br>\nvt. 避免,逃避	 The boy avoided punishment by running away./r/n     那个男孩逃跑来逃避惩罚。/r/n\n She tried to avoid answering my questions./r/n     她试图避而不答我的问题。/r/n
+609	avoidable	a. 可避免的	
+610	await	v. 等候,准备...以待	 A warm welcome awaits you./r/n     你将受到热烈的欢迎。/r/n\n I am awaiting their reply./r/n     我正在等待他们的答复。/r/n
+611	aware	a. 知道的,意识到的	 We are fully aware of the gravity of the situation./r/n     我们十分清楚形势的严峻性。/r/n\n Are you aware that you are sitting on my hat?/r/n     你知道你坐在我的帽子上了吗？/r/n
+612	away	ad. 远离,离开	 I hope to get away early in the morning./r/n     我希望一早就动身离开。/r/n\n He lives 3 miles away from here./r/n     他住在离这里三哩的地方。/r/n
+613	awe	n. 敬畏	 The children stared at the teacher with awe./r/n     孩子很敬畏地凝视着老师。/r/n\n The silence awed the boy./r/n     寂静使这个小男孩害怕了。/r/n
+614	awful	a. 可怕的,壮严的	 It was awful to see him in such pain./r/n     看到他这样痛苦真叫人难过。/r/n\n It would be awful if he found out the truth./r/n     如果他发现了真相，那就糟了。/r/n
+615	awkward	a. 笨拙的<br>\na. 尴尬的	 At the formal party I felt very awkward and out of place./r/n     在正式的舞会上，我感到局促不安，很不自在。/r/n\n Your refusal puts me in an awkward predicament./r/n     你的拒绝让我感到十分为难。/r/n
+616	ax	n. 斧子<br>\nvt. 用斧砍	 Five hundred jobs were axed as a result of government spending cuts./r/n     由于政府缩减经费的缘故，有五百人被突然解雇了。/r/n\n Several of our plans got the ax when the new government came in./r/n     新政府上台后，我们有几个计划被砍掉了。/r/n
+617	axe	n. 斧<br>\nvt. 用斧砍	 Five hundred jobs were axed as a result of government spending cuts./r/n     由于政府缩减经费的缘故，有五百人被突然解雇了。/r/n\n Several of our plans got the axe when the new government came in./r/n     新政府上台后，我们有几个计划被砍掉了。/r/n
+618	axis	n. 轴	

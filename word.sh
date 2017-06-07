@@ -122,7 +122,6 @@ function wordCompletion() {
 		fi
 		if [ "${tishi}" == "N" ]
 			then
-			echo -e "你需要多一点耐心嘞！\n"
 			echo -e "答案为:${word}\n"
 			pwd=`pwd`
                         echo "我们已将答错的单词保存至${pwd}/error.txt,还请您经常复习!!!"
@@ -132,9 +131,22 @@ function wordCompletion() {
 
 }
 
+function getMeaning() {
+	read -p "请输入要查询的单词：" word
+	sql="select meaning from cetsix where words = '${word}';"
+	echo `mysql -h ${hostname} -u ${username} -p${password} ${dbname} -e "${sql}" > meaning.txt`
+	result=`sed -n 2p meaning.txt`
+	if [ -n "${result}" ]
+		then
+		echo "单词释义为：${result}"
+	else
+		echo "尚未查找到此单词！！"
+	fi
+}
 
 while [ $exit == "false" ]
 do
+	echo -e "\n"
 	echo "****************************Welcome To The Word Center************************************************"
 	echo "*****************There Are Many Function, You Can Choose One To Play**********************************"
 	echo "--------------1,将所有单词输出到文件"
@@ -142,7 +154,8 @@ do
 	echo "--------------3,将包含输入字母的单词输出到文件"
 	echo "--------------4,词汇比拼小游戏"
 	echo "--------------5,单词补全小游戏"
-	echo "--------------6,退出"
+	echo "--------------6,单词释义"
+	echo "--------------7,退出"
 	echo -e "\n"
 
 read -p "please choose a number : " num
@@ -163,6 +176,9 @@ case $num in
 	wordCompletion
 	;;
 	6)
+	getMeaning
+	;;
+	7)
 	exit="true"
 	;;
 esac
